@@ -73,7 +73,10 @@ if not os.path.exists(log_file):
 else:
     with open(log_file, "r") as f:
         click_data = json.load(f)
-    print(f"Loaded existing data from {log_file}.")
+    # Ensure click_data is a list
+    if not isinstance(click_data, list):
+        print(f"Error: {log_file} is not in the expected list format. Resetting to an empty list.")
+        click_data = []
 
 # Loop through the grid, clicking each point and capturing metadata
 for i in range(num_steps_x):
