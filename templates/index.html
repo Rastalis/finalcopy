@@ -181,6 +181,37 @@
             })
             .catch(error => console.error("❌ Capture error:", error));
         }
+        function sendLiveClick(event) {
+            if (!liveMode) return;
+
+            const img = document.getElementById("screenshot");
+            const imgRect = img.getBoundingClientRect();
+
+            // ✅ Use the ACTUAL device resolution (update these values!)
+            const deviceWidth = 1600;  // Replace with actual ADB device width
+            const deviceHeight = 900;  // Replace with actual ADB device height
+
+            // ✅ Calculate the scaling factors
+            const scaleX = deviceWidth / imgRect.width;
+            const scaleY = deviceHeight / imgRect.height;
+
+            // ✅ Adjust the click position to match the device resolution
+            const clickData = {
+                x: Math.round((event.clientX - imgRect.left) * scaleX),
+                y: Math.round((event.clientY - imgRect.top) * scaleY)
+            };
+
+            console.log(`Live Click Sent: x=${clickData.x}, y=${clickData.y}`);
+
+            // ✅ Send the corrected tap position to Flask
+            fetch("/live_click", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(clickData)
+            })
+            .then(response => response.json())
+            .catch(error => console.error("Live Click Error:", error));
+        }
 
         function markTemplateOnScreenshot(matches) {
             document.querySelectorAll(".found-template").forEach(el => el.remove());
