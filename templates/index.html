@@ -40,6 +40,8 @@
         <button onclick="saveTemplate()">Save Template</button>
         <input type="text" id="search-template" placeholder="Search Template">
         <button onclick="searchTemplate()">Search</button>
+        <button onclick="searchAllTemplates()">Search All</button>
+
     </div>
 
     <div id="screenshot-container">
@@ -162,6 +164,25 @@
         }
 
 
+        function searchAllTemplates() {
+            fetch("/search_all_templates", {
+                method: "GET",
+                headers: { "Content-Type": "application/json" }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.found) {
+                    alert(`Found matches for ${Object.keys(data.matches).length} templates!`);
+                    markTemplateOnScreenshot(data.matches);  // Show matches on screenshot
+                } else {
+                    alert("No templates found.");
+                }
+            })
+            .catch(error => console.error("Search all templates error:", error));
+        }
+
+
+
 
         function captureScreenshot() {
             fetch("/capture")
@@ -209,14 +230,13 @@
             .catch(error => console.error("Live Click Error:", error));
         }
 
-        function markTemplateOnScreenshot(matches) {
+        function markTemplateOnScreenshot(matchesByTemplate) {
             // Remove old template markers
             document.querySelectorAll(".found-template").forEach(el => el.remove());
 
             const img = document.getElementById("screenshot");
             const container = document.getElementById("screenshot-container");
 
-            // Ensure image has loaded
             if (!img.complete || img.naturalWidth === 0) {
                 console.error("Image not loaded yet.");
                 return;
@@ -226,21 +246,23 @@
             const scaleX = imgRect.width / img.naturalWidth;
             const scaleY = imgRect.height / img.naturalHeight;
 
-            // Draw each match as a blue rectangle
-            matches.forEach(roi => {
-                const box = document.createElement("div");
-                box.classList.add("found-template");
-                box.style.position = "absolute";
-                box.style.border = "2px solid blue";
-                box.style.backgroundColor = "rgba(0, 0, 255, 0.3)";
-                box.style.left = (roi.x1 * scaleX) + "px";
-                box.style.top = (roi.y1 * scaleY) + "px";
-                box.style.width = ((roi.x2 - roi.x1) * scaleX) + "px";
-                box.style.height = ((roi.y2 - roi.y1) * scaleY) + "px";
+            Object.entries(matchesByTemplate).forEach(([templateName, matches]) => {
+                matches.forEach(roi => {
+                    const box = document.createElement("div");
+                    box.classList.add("found-template");
+                    box.style.position = "absolute";
+                    box.style.border = "2px solid blue";
+                    box.style.backgroundColor = "rgba(0, 0, 255, 0.3)";
+                    box.style.left = (roi.x1 * scaleX) + "px";
+                    box.style.top = (roi.y1 * scaleY) + "px";
+                    box.style.width = ((roi.x2 - roi.x1) * scaleX) + "px";
+                    box.style.height = ((roi.y2 - roi.y1) * scaleY) + "px";
 
-                container.appendChild(box);
+                    container.appendChild(box);
+                });
             });
         }
+
 
     </script>
 </body>

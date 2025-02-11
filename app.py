@@ -187,6 +187,51 @@ def live_click():
         return jsonify({"status": "tap_sent", "x": x, "y": y})
     except Exception as e:
         return jsonify({"error": "Failed to send tap"}), 500
+    
+
+    
+@app.route("/search_all_templates", methods=["GET"])
+def search_all_templates():
+    try:
+        templates = load_templates()
+        if not templates:
+            return jsonify({"found": False, "message": "No templates found"}), 404
+
+        img = cv2.imread(LOCAL_SCREENSHOT_PATH, cv2.IMREAD_GRAYSCALE)
+        if img is None:
+            return jsonify({"error": "Screenshot missing"}), 404
+
+        all_matches = {}
+
+        for template_name, template_info in templates.items():
+            template_path = template_info["path"]
+            template = cv2.imread(template_path, cv2.IMREAD_GRAYSCALE)
+
+            if template is None:
+                continue  # Skip templates that couldn't be loaded
+
+            result = cv2.matchTemplate(img, template, cv2.TM_CCOEFF_NORMED)
+            threshold = 0.8
+            locations = np.where(result >= threshold)
+
+            matches = []
+            h, w = template.shape
+
+            for pt in zip(*locations[::-1]):
+                matches.append({
+                    "x1": int(pt[0]), 
+                    "y1": int(pt[1]), 
+                    "x2": int(pt[0] + w), 
+                    "y2": int(pt[1] + h)
+                })
+
+            if matches:
+                all_matches[template_name] = matches
+
+        return json.dumps({"found": len(all_matches) > 0, "matches": all_matches}, default=convert_int64)
+
+    except Exception as e:
+        return jsonify({"error": f"Search failed: {str(e)}"}), 500
 
 # Main Page
 @app.route("/")
