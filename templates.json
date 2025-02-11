@@ -1,1 +1,394 @@
-﻿{}
+{
+    "asf3": {
+        "x1": 453,
+        "y1": 593,
+        "x2": 516,
+        "y2": 636,
+        "path": "static/templates\\asf3.png"
+    },
+    "castleskin1": {
+        "x1": 709,
+        "y1": 451,
+        "x2": 759,
+        "y2": 490,
+        "path": "static/templates\\castleskin1.png"
+    },
+    "skin2": {
+        "x1": 361,
+        "y1": 398,
+        "x2": 399,
+        "y2": 433,
+        "path": "static/templates\\skin2.png"
+    },
+    "forest2": {
+        "x1": 580,
+        "y1": 524,
+        "x2": 607,
+        "y2": 547,
+        "path": "static/templates\\forest2.png"
+    },
+    "grassland1": {
+        "x1": 374,
+        "y1": 538,
+        "x2": 414,
+        "y2": 567,
+        "path": "static/templates\\grassland1.png"
+    },
+    "occupiedfield1": {
+        "x1": 803,
+        "y1": 381,
+        "x2": 850,
+        "y2": 422,
+        "path": "static/templates\\occupiedfield1.png"
+    },
+    "occupiedruin1": {
+        "x1": 1315,
+        "y1": 635,
+        "x2": 1357,
+        "y2": 670,
+        "path": "static/templates\\occupiedruin1.png"
+    },
+    "grassland2": {
+        "x1": 538,
+        "y1": 239,
+        "x2": 578,
+        "y2": 282,
+        "path": "static/templates\\grassland2.png"
+    },
+    "castle1": {
+        "x1": 429,
+        "y1": 373,
+        "x2": 448,
+        "y2": 389,
+        "path": "static/templates\\castle1.png"
+    },
+    "castle2": {
+        "x1": 401,
+        "y1": 515,
+        "x2": 417,
+        "y2": 531,
+        "path": "static/templates\\castle2.png"
+    },
+    "castle3": {
+        "x1": 653,
+        "y1": 383,
+        "x2": 673,
+        "y2": 401,
+        "path": "static/templates\\castle3.png"
+    },
+    "castle4": {
+        "x1": 554,
+        "y1": 208,
+        "x2": 569,
+        "y2": 219,
+        "path": "static/templates\\castle4.png"
+    },
+    "castle6": {
+        "x1": 975,
+        "y1": 674,
+        "x2": 999,
+        "y2": 695,
+        "path": "static/templates\\castle6.png"
+    },
+    "castlecoke": {
+        "x1": 970,
+        "y1": 530,
+        "x2": 991,
+        "y2": 549,
+        "path": "static/templates\\castlecoke.png"
+    },
+    "castledeer": {
+        "x1": 1071,
+        "y1": 365,
+        "x2": 1097,
+        "y2": 383,
+        "path": "static/templates\\castledeer.png"
+    },
+    "castlearcade": {
+        "x1": 349,
+        "y1": 746,
+        "x2": 364,
+        "y2": 761,
+        "path": "static/templates\\castlearcade.png"
+    },
+    "castletoothless": {
+        "x1": 738,
+        "y1": 414,
+        "x2": 763,
+        "y2": 437,
+        "path": "static/templates\\castletoothless.png"
+    },
+    "castletemple": {
+        "x1": 837,
+        "y1": 743,
+        "x2": 870,
+        "y2": 772,
+        "path": "static/templates\\castletemple.png"
+    },
+    "castlefrozen": {
+        "x1": 609,
+        "y1": 749,
+        "x2": 632,
+        "y2": 771,
+        "path": "static/templates\\castlefrozen.png"
+    },
+    "castlelodge": {
+        "x1": 1086,
+        "y1": 600,
+        "x2": 1119,
+        "y2": 622,
+        "path": "static/templates\\castlelodge.png"
+    },
+    "castlecokeS": {
+        "x1": 1075,
+        "y1": 477,
+        "x2": 1106,
+        "y2": 502,
+        "path": "static/templates\\castlecokeS.png"
+    },
+    "castlecokeSS": {
+        "x1": 1081,
+        "y1": 463,
+        "x2": 1106,
+        "y2": 481,
+        "path": "static/templates\\castlecokeSS.png"
+    },
+    "castlegolddragon": {
+        "x1": 950,
+        "y1": 410,
+        "x2": 972,
+        "y2": 432,
+        "path": "static/templates\\castlegolddragon.png"
+    },
+    "castlearcadeSS": {
+        "x1": 746,
+        "y1": 529,
+        "x2": 774,
+        "y2": 553,
+        "path": "static/templates\\castlearcadeSS.png"
+    },
+    "castleSSarcade": {
+        "x1": 469,
+        "y1": 821,
+        "x2": 492,
+        "y2": 840,
+        "path": "static/templates\\castleSSarcade.png"
+    },
+    "castle25ns": {
+        "x1": 874,
+        "y1": 603,
+        "x2": 899,
+        "y2": 620,
+        "path": "static/templates\\castle25ns.png"
+    },
+    "castlesky": {
+        "x1": 495,
+        "y1": 661,
+        "x2": 516,
+        "y2": 675,
+        "path": "static/templates\\castlesky.png"
+    },
+    "castlegodzilla": {
+        "x1": 17,
+        "y1": 527,
+        "x2": 36,
+        "y2": 540,
+        "path": "static/templates\\castlegodzilla.png"
+    },
+    "ruins1": {
+        "x1": 510,
+        "y1": 421,
+        "x2": 534,
+        "y2": 441,
+        "path": "static/templates\\ruins1.png"
+    },
+    "field1": {
+        "x1": 1133,
+        "y1": 753,
+        "x2": 1168,
+        "y2": 775,
+        "path": "static/templates\\field1.png"
+    },
+    "field2": {
+        "x1": 1535,
+        "y1": 691,
+        "x2": 1553,
+        "y2": 706,
+        "path": "static/templates\\field2.png"
+    },
+    "castleburn": {
+        "x1": 695,
+        "y1": 466,
+        "x2": 720,
+        "y2": 480,
+        "path": "static/templates\\castleburn.png"
+    },
+    "stoneoccupied": {
+        "x1": 1051,
+        "y1": 415,
+        "x2": 1080,
+        "y2": 431,
+        "path": "static/templates\\stoneoccupied.png"
+    },
+    "darknest1": {
+        "x1": 926,
+        "y1": 347,
+        "x2": 947,
+        "y2": 366,
+        "path": "static/templates\\darknest1.png"
+    },
+    "oreoccupied1": {
+        "x1": 594,
+        "y1": 108,
+        "x2": 626,
+        "y2": 128,
+        "path": "static/templates\\oreoccupied1.png"
+    },
+    "castlekong": {
+        "x1": 518,
+        "y1": 421,
+        "x2": 547,
+        "y2": 448,
+        "path": "static/templates\\castlekong.png"
+    },
+    "castleclown": {
+        "x1": 358,
+        "y1": 619,
+        "x2": 401,
+        "y2": 645,
+        "path": "static/templates\\castleclown.png"
+    },
+    "oreguildoccupied": {
+        "x1": 1131,
+        "y1": 629,
+        "x2": 1169,
+        "y2": 661,
+        "path": "static/templates\\oreguildoccupied.png"
+    },
+    "ruins3": {
+        "x1": 1238,
+        "y1": 564,
+        "x2": 1282,
+        "y2": 597,
+        "path": "static/templates\\ruins3.png"
+    },
+    "woodoccupied": {
+        "x1": 1337,
+        "y1": 381,
+        "x2": 1363,
+        "y2": 405,
+        "path": "static/templates\\woodoccupied.png"
+    },
+    "castle33": {
+        "x1": 1306,
+        "y1": 260,
+        "x2": 1342,
+        "y2": 283,
+        "path": "static/templates\\castle33.png"
+    },
+    "castleship": {
+        "x1": 1211,
+        "y1": 305,
+        "x2": 1236,
+        "y2": 326,
+        "path": "static/templates\\castleship.png"
+    },
+    "castlejapan": {
+        "x1": 858,
+        "y1": 488,
+        "x2": 888,
+        "y2": 510,
+        "path": "static/templates\\castlejapan.png"
+    },
+    "castlecar1": {
+        "x1": 996,
+        "y1": 426,
+        "x2": 1018,
+        "y2": 448,
+        "path": "static/templates\\castlecar1.png"
+    },
+    "castletemple1": {
+        "x1": 990,
+        "y1": 343,
+        "x2": 1009,
+        "y2": 356,
+        "path": "static/templates\\castletemple1.png"
+    },
+    "castlearcade2": {
+        "x1": 1195,
+        "y1": 215,
+        "x2": 1214,
+        "y2": 233,
+        "path": "static/templates\\castlearcade2.png"
+    },
+    "castle333": {
+        "x1": 885,
+        "y1": 536,
+        "x2": 903,
+        "y2": 555,
+        "path": "static/templates\\castle333.png"
+    },
+    "castletemplate33": {
+        "x1": 623,
+        "y1": 676,
+        "x2": 640,
+        "y2": 690,
+        "path": "static/templates\\castletemplate33.png"
+    },
+    "castledeer2": {
+        "x1": 371,
+        "y1": 657,
+        "x2": 390,
+        "y2": 676,
+        "path": "static/templates\\castledeer2.png"
+    },
+    "castlecoke3": {
+        "x1": 221,
+        "y1": 727,
+        "x2": 247,
+        "y2": 743,
+        "path": "static/templates\\castlecoke3.png"
+    },
+    "castlejpan2": {
+        "x1": 341,
+        "y1": 787,
+        "x2": 369,
+        "y2": 803,
+        "path": "static/templates\\castlejpan2.png"
+    },
+    "castle134": {
+        "x1": 1299,
+        "y1": 188,
+        "x2": 1330,
+        "y2": 213,
+        "path": "static/templates\\castle134.png"
+    },
+    "castlegoldarcher": {
+        "x1": 610,
+        "y1": 403,
+        "x2": 627,
+        "y2": 412,
+        "path": "static/templates\\castlegoldarcher.png"
+    },
+    "castleunicorn": {
+        "x1": 1125,
+        "y1": 667,
+        "x2": 1143,
+        "y2": 686,
+        "path": "static/templates\\castleunicorn.png"
+    },
+    "castletemple2": {
+        "x1": 716,
+        "y1": 867,
+        "x2": 734,
+        "y2": 878,
+        "path": "static/templates\\castletemple2.png"
+    },
+    "luckycardbox": {
+        "x1": 859,
+        "y1": 554,
+        "x2": 889,
+        "y2": 572,
+        "path": "static/templates\\luckycardbox.png"
+    }
+}
