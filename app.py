@@ -60,11 +60,11 @@ def save_template():
         print("🔍 Checking incoming request...")
         print(f"Headers: {request.headers}")  # Log headers
         print(f"Raw Data: {request.data}")    # Log raw request data
-        data = request.get_json()
+        data = request.get_json(silent=True)  # Prevent exception if JSON is invalid
         print(f"Parsed JSON: {data}")         # Log parsed JSON
 
         if not data:
-            return jsonify({"error": "No data received"}), 400
+            return jsonify({"error": "No data received or invalid JSON"}), 400
 
         template_name = data.get("name")
         if not template_name:
@@ -87,6 +87,7 @@ def save_template():
     except Exception as e:
         print(f"❌ Error saving template: {str(e)}")  # Debugging output
         return jsonify({"error": f"Save failed: {str(e)}"}), 500
+
 
 
 # Search for template in screenshot using Image Matching
