@@ -141,13 +141,8 @@
         }
 
         function searchTemplate() {
-            const name = document.getElementById("search-template").value.trim();
-            if (!name) {
-                alert("Enter a template name!");
-                return;
-            }
-
-            console.log("📤 Searching for template:", name);
+            const name = document.getElementById("search-template").value;
+            if (!name) return alert("Enter a template name to search!");
 
             fetch("/search_template", {
                 method: "POST",
@@ -156,15 +151,16 @@
             })
             .then(response => response.json())
             .then(data => {
-                console.log("🔍 Search response:", data);
                 if (data.found) {
-                    alert(`✅ Template '${name}' found!`);
+                    alert(`Found ${data.matches.length} matches!`);
+                    markTemplateOnScreenshot(data.matches);  // Show matches on screenshot
                 } else {
-                    alert("❌ Template not found.");
+                    alert("Template not found.");
                 }
             })
-            .catch(error => console.error("❌ Search template error:", error));
+            .catch(error => console.error("Search template error:", error));
         }
+
 
 
         function captureScreenshot() {
@@ -214,25 +210,38 @@
         }
 
         function markTemplateOnScreenshot(matches) {
+            // Remove old template markers
             document.querySelectorAll(".found-template").forEach(el => el.remove());
 
             const img = document.getElementById("screenshot");
             const container = document.getElementById("screenshot-container");
 
+            // Ensure image has loaded
+            if (!img.complete || img.naturalWidth === 0) {
+                console.error("Image not loaded yet.");
+                return;
+            }
+
             const imgRect = img.getBoundingClientRect();
             const scaleX = imgRect.width / img.naturalWidth;
             const scaleY = imgRect.height / img.naturalHeight;
 
+            // Draw each match as a blue rectangle
             matches.forEach(roi => {
                 const box = document.createElement("div");
                 box.classList.add("found-template");
+                box.style.position = "absolute";
+                box.style.border = "2px solid blue";
+                box.style.backgroundColor = "rgba(0, 0, 255, 0.3)";
                 box.style.left = (roi.x1 * scaleX) + "px";
                 box.style.top = (roi.y1 * scaleY) + "px";
                 box.style.width = ((roi.x2 - roi.x1) * scaleX) + "px";
                 box.style.height = ((roi.y2 - roi.y1) * scaleY) + "px";
+
                 container.appendChild(box);
             });
         }
+
     </script>
 </body>
 </html>

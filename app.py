@@ -125,12 +125,18 @@ def save_template():
 
 # Search for template in screenshot using Image Matching
 
+
+# Ensure int64 values are converted to int before returning JSON
+def convert_int64(obj):
+    if isinstance(obj, np.integer):
+        return int(obj)
+    raise TypeError
+
 @app.route("/search_template", methods=["POST"])
 def search_template():
     try:
         data = request.json
         template_name = data.get("name")
-
         templates = load_templates()
         if template_name not in templates:
             return jsonify({"found": False, "message": "Template not found"}), 404
@@ -153,17 +159,17 @@ def search_template():
 
         for pt in zip(*locations[::-1]):
             matches.append({
-                "x1": int(pt[0]),  # ✅ Convert NumPy int64 to Python int
-                "y1": int(pt[1]),
-                "x2": int(pt[0] + w),
+                "x1": int(pt[0]), 
+                "y1": int(pt[1]), 
+                "x2": int(pt[0] + w), 
                 "y2": int(pt[1] + h)
             })
 
-        return jsonify({"found": len(matches) > 0, "matches": matches})
-
+        return json.dumps({"found": len(matches) > 0, "matches": matches}, default=convert_int64)
+    
     except Exception as e:
-        print(f"❌ Error in search_template: {str(e)}")  # Debugging output
         return jsonify({"error": f"Search failed: {str(e)}"}), 500
+
 
 
 
