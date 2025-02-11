@@ -27,7 +27,7 @@ def save_templates(templates):
     with open(TEMPLATE_FILE, "w") as f:
         json.dump(templates, f, indent=4)
 
-# Capture Screenshot
+# Capture Screenshot from ADB
 @app.route("/capture")
 def capture_screenshot():
     try:
@@ -57,73 +57,88 @@ def capture_screenshot():
 @app.route("/save_template", methods=["POST"])
 def save_template():
     try:
-        # ✅ Check if the request contains JSON
-        if not request.is_json:
-            print("❌ Error: Received non-JSON request")  # Debugging
-            return jsonify({"error": "Invalid request, expected JSON"}), 400
-
+        print("🔍 Checking incoming request...")
+        print(f"Headers: {request.headers}")  # Log headers
+        print(f"Raw Data: {request.data}")    # Log raw request data
         data = request.get_json()
+        print(f"Parsed JSON: {data}")         # Log parsed JSON
 
-        # ✅ Ensure required fields exist
-        if not data or "name" not in data or "x1" not in data:
-            print(f"❌ Error: Missing required data {data}")  # Debugging
-            return jsonify({"error": "Missing required template data"}), 400
+        if not data:
+            return jsonify({"error": "No data received"}), 400
 
-        template_name = data["name"].strip()
+        template_name = data.get("name")
+        if not template_name:
+            return jsonify({"error": "Template name required"}), 400
+
         x1, y1, x2, y2 = data["x1"], data["y1"], data["x2"], data["y2"]
 
-        if not template_name:
-            return jsonify({"error": "Template name cannot be empty"}), 400
-
-        # ✅ Check if screenshot exists
-        if not os.path.exists(LOCAL_SCREENSHOT_PATH):
-            return jsonify({"error": "Screenshot not found"}), 404
-
-        # ✅ Load screenshot and save ROI
+        # Load screenshot
         img = cv2.imread(LOCAL_SCREENSHOT_PATH)
         if img is None:
-            return jsonify({"error": "Failed to load screenshot"}), 500
+            return jsonify({"error": "Screenshot not found"}), 404
 
-        roi = img[y1:y2, x1:x2]
-        template_path = os.path.join(TEMPLATE_FOLDER, f"{template_name}.png")
-        cv2.imwrite(template_path, roi)
-
-        # ✅ Save metadata
+        # Save metadata
         templates = load_templates()
-        templates[template_name] = {"x1": x1, "y1": y1, "x2": x2, "y2": y2, "path": template_path}
+        templates[template_name] = {"x1": x1, "y1": y1, "x2": x2, "y2": y2}
         save_templates(templates)
 
-        print(f"✅ Template '{template_name}' saved successfully")
         return jsonify({"status": "Template saved", "name": template_name})
 
     except Exception as e:
-        print(f"❌ Save template error: {str(e)}")
+        print(f"❌ Error saving template: {str(e)}")  # Debugging output
         return jsonify({"error": f"Save failed: {str(e)}"}), 500
 
 
+# Search for template in screenshot using Image Matching
 @app.route("/search_template", methods=["POST"])
 def search_template():
     try:
-        if not request.is_json:
-            print("❌ Error: Received non-JSON request")  # Debugging
-            return jsonify({"error": "Invalid request, expected JSON"}), 400
-
-        data = request.get_json()
-        if not data or "name" not in data:
-            print(f"❌ Error: Missing template name {data}")  # Debugging
-            return jsonify({"error": "Missing template name"}), 400
-
-        template_name = data["name"].strip()
+        data = request.json
+        template_name = data.get("name")
         templates = load_templates()
 
         if template_name not in templates:
-            print(f"❌ Template '{template_name}' not found")  # Debugging
+            print(f"❌ Template '{template_name}' not found in database.")
             return jsonify({"found": False, "message": "Template not found"}), 404
 
-        return jsonify({"found": True, "roi": templates[template_name]})
+        template_info = templates[template_name]
+        template_path = template_info["path"]
+
+        # Load images
+        if not os.path.exists(LOCAL_SCREENSHOT_PATH):
+            print("❌ Screenshot file not found.")
+            return jsonify({"error": "Screenshot not found"}), 404
+
+        if not os.path.exists(template_path):
+            print(f"❌ Template image file '{template_name}.png' not found.")
+            return jsonify({"error": "Template image not found"}), 404
+
+        img = cv2.imread(LOCAL_SCREENSHOT_PATH, cv2.IMREAD_GRAYSCALE)
+        template = cv2.imread(template_path, cv2.IMREAD_GRAYSCALE)
+
+        if img is None:
+            print("❌ Failed to load screenshot image.")
+            return jsonify({"error": "Screenshot failed to load"}), 500
+        if template is None:
+            print(f"❌ Failed to load template '{template_name}.png'")
+            return jsonify({"error": "Template image failed to load"}), 500
+
+        # Apply template matching
+        result = cv2.matchTemplate(img, template, cv2.TM_CCOEFF_NORMED)
+        threshold = 0.8
+        locations = np.where(result >= threshold)
+
+        matches = []
+        h, w = template.shape
+
+        for pt in zip(*locations[::-1]):
+            matches.append({"x1": pt[0], "y1": pt[1], "x2": pt[0] + w, "y2": pt[1] + h})
+
+        print(f"✅ Found {len(matches)} matches for template '{template_name}'")
+        return jsonify({"found": len(matches) > 0, "matches": matches})
 
     except Exception as e:
-        print(f"❌ Search template error: {str(e)}")
+        print(f"❌ Error in search_template: {str(e)}")
         return jsonify({"error": f"Search failed: {str(e)}"}), 500
 
 
@@ -135,12 +150,11 @@ def live_click():
         x, y = int(data["x"]), int(data["y"])
 
         print(f"✅ Live Click at ({x}, {y}) sent to ADB")  # Debugging log
+
         subprocess.run(["adb", "shell", "input", "tap", str(x), str(y)])
 
         return jsonify({"status": "tap_sent", "x": x, "y": y})
-
     except Exception as e:
-        print(f"❌ Live Click error: {str(e)}")  # Debugging
         return jsonify({"error": "Failed to send tap"}), 500
 
 # Main Page
