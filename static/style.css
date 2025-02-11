@@ -1,0 +1,10 @@
+.roi-box {
+    position: absolute;
+    border: 2px solid red;
+    background: rgba(255, 0, 0, 0.3);
+    pointer-events: auto;  /* Prevent clicks from passing through */
+}
+
+.click-through {
+    pointer-events: none;  /* Allow clicks to pass through */
+} 

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADB Screenshot ROI</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; }
+        #screenshot-container { position: relative; display: inline-block; }
+        #screenshot { max-width: 100%; cursor: crosshair; }
+        .roi-box {
+            position: absolute;
+            border: 2px solid red;
+            background: rgba(255, 0, 0, 0.3);
+        }
+        .found-template {
+            position: absolute;
+            border: 2px solid blue;
+            background: rgba(0, 0, 255, 0.3);
+            pointer-events: none;
+            z-index: 10;
+        }
+        .button-container {
+            margin-top: 20px;
+        }
+        .button-container button, input {
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>ADB Screenshot ROI Selector</h1>
+    
+    <div class="button-container">
+        <button onclick="toggleLiveMode()">Live Mode: OFF</button>
+        <button onclick="toggleROIMode()">Draw ROI: OFF</button>
+        <button onclick="captureScreenshot()">Refresh Screenshot</button>
+        <button onclick="saveTemplate()">Save Template</button>
+        <input type="text" id="search-template" placeholder="Search Template">
+        <button onclick="searchTemplate()">Search</button>
+    </div>
+
+    <div id="screenshot-container">
+        <img id="screenshot" src="{{ url_for('static', filename='screenshot.png') }}" alt="Screenshot" draggable="false">
+    </div>
+    
+    <script>
+        let liveMode = false;
+        let roiMode = false;
+        let startX, startY, roiBox, isDrawing = false;
+
+        function toggleROIMode() {
+            roiMode = !roiMode;
+            document.querySelector("button:nth-child(2)").textContent = `Draw ROI: ${roiMode ? "ON" : "OFF"}`;
+        }
+
+        function toggleLiveMode() {
+            liveMode = !liveMode;
+            roiMode = false;
+            document.querySelector("button:nth-child(1)").textContent = `Live Mode: ${liveMode ? "ON" : "OFF"}`;
+
+            document.querySelectorAll(".roi-box, .found-template").forEach(roi => {
+                roi.style.pointerEvents = liveMode ? "none" : "auto";
+            });
+        }
+
+        document.getElementById("screenshot").addEventListener("mousedown", (event) => {
+            if (!roiMode) return;
+
+            isDrawing = true;
+            const imgRect = event.target.getBoundingClientRect();
+            startX = event.clientX - imgRect.left;
+            startY = event.clientY - imgRect.top;
+
+            roiBox = document.createElement("div");
+            roiBox.classList.add("roi-box");
+            roiBox.style.left = startX + "px";
+            roiBox.style.top = startY + "px";
+            document.getElementById("screenshot-container").appendChild(roiBox);
+        });
+
+        document.addEventListener("mousemove", (event) => {
+            if (!isDrawing) return;
+            const imgRect = document.getElementById("screenshot").getBoundingClientRect();
+            let currentX = event.clientX - imgRect.left;
+            let currentY = event.clientY - imgRect.top;
+
+            roiBox.style.width = Math.abs(currentX - startX) + "px";
+            roiBox.style.height = Math.abs(currentY - startY) + "px";
+            roiBox.style.left = Math.min(startX, currentX) + "px";
+            roiBox.style.top = Math.min(startY, currentY) + "px";
+        });
+
+        document.addEventListener("mouseup", () => {
+            if (!isDrawing) return;
+            isDrawing = false;
+        });
+
+        function saveTemplate() {
+            const name = prompt("Enter template name:");
+            if (!name) {
+                alert("Template name is required!");
+                return;
+            }
+
+            if (!roiBox) {
+                alert("No ROI selected!");
+                return;
+            }
+
+            const rect = roiBox.getBoundingClientRect();
+            const imgRect = document.getElementById("screenshot").getBoundingClientRect();
+
+            const roiData = {
+                name: name.trim(),
+                x1: Math.round(rect.left - imgRect.left),
+                y1: Math.round(rect.top - imgRect.top),
+                x2: Math.round(rect.right - imgRect.left),
+                y2: Math.round(rect.bottom - imgRect.top)
+            };
+
+            console.log("📤 Sending ROI data:", JSON.stringify(roiData));
+
+            fetch("/save_template", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(roiData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log("✅ Save response:", data);
+                if (data.error) {
+                    alert("Error: " + data.error);
+                } else {
+                    alert("Template saved: " + data.status);
+                }
+            })
+            .catch(error => console.error("❌ Save template error:", error));
+        }
+
+        function searchTemplate() {
+            const name = document.getElementById("search-template").value.trim();
+            if (!name) {
+                alert("Enter a template name!");
+                return;
+            }
+
+            console.log("📤 Searching for template:", name);
+
+            fetch("/search_template", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ name: name })
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log("🔍 Search response:", data);
+                if (data.found) {
+                    alert(`✅ Template '${name}' found!`);
+                } else {
+                    alert("❌ Template not found.");
+                }
+            })
+            .catch(error => console.error("❌ Search template error:", error));
+        }
+
+
+        function captureScreenshot() {
+            fetch("/capture")
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === "success") {
+                    console.log("✅ Screenshot refreshed.");
+                    const screenshot = document.getElementById("screenshot");
+                    screenshot.src = "/static/screenshot.png?t=" + new Date().getTime();
+                } else {
+                    alert("❌ Failed to capture screenshot: " + (data.error || "Unknown error"));
+                }
+            })
+            .catch(error => console.error("❌ Capture error:", error));
+        }
+
+        function markTemplateOnScreenshot(matches) {
+            document.querySelectorAll(".found-template").forEach(el => el.remove());
+
+            const img = document.getElementById("screenshot");
+            const container = document.getElementById("screenshot-container");
+
+            const imgRect = img.getBoundingClientRect();
+            const scaleX = imgRect.width / img.naturalWidth;
+            const scaleY = imgRect.height / img.naturalHeight;
+
+            matches.forEach(roi => {
+                const box = document.createElement("div");
+                box.classList.add("found-template");
+                box.style.left = (roi.x1 * scaleX) + "px";
+                box.style.top = (roi.y1 * scaleY) + "px";
+                box.style.width = ((roi.x2 - roi.x1) * scaleX) + "px";
+                box.style.height = ((roi.y2 - roi.y1) * scaleY) + "px";
+                container.appendChild(box);
+            });
+        }
+    </script>
+</body>
+</html>

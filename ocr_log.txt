@@ -1,0 +1,7 @@
+ROI #1: K:914 X:273 Y:605
+ROI #2: K:914 X:273 Y:605
+ROI #3: 200 20? 220
+ROI #4: I
+ROI #5: [3*D] 3d and apx togheter
+ROI #6: 
+ROI #7: [I FlJustinZx
