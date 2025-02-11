@@ -75,7 +75,7 @@ def main():
     current_start_x = 16
     current_start_y = 33
     current_step_size = 75
-    current_num_steps_x = 16
+    current_num_steps_x = 21
     current_num_steps_y = 12
 
     # Adjust the next grid mapping based on analysis

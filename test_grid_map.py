@@ -67,14 +67,26 @@ def is_point_in_bad_area(x, y):
             return True
     return False
 
+# Function to shrink the list of ADB points to the minimum number to cover all tiles
+def reduce_to_minimum_points(click_data, step_size):
+    # Placeholder: Assuming we want to reduce to minimal unique KXY points
+    unique_points = set((entry['kxy'] for entry in click_data if entry['kxy'] != 'Not Available'))
+    print(f"Unique KXY Tiles: {len(unique_points)}")
+    
+    # For now, we just return the unique points, could implement further logic to decide minimal points
+    reduced_click_data = [entry for entry in click_data if entry['kxy'] in unique_points]
+    print(f"Reduced points to {len(reduced_click_data)}")
+    
+    return reduced_click_data
+
 # Set starting point
 start_x = 16  # Starting X coordinate
 start_y = 33  # Starting Y coordinate
-step_size = 50  # Step size (distance between points)
+step_size = 30  # Small step size to cover more ground
 
 # Number of steps (You can modify this based on the grid size)
-num_steps_x = 32  # Number of steps along the X axis
-num_steps_y = 18  # Number of steps along the Y axis
+num_steps_x = 53  # Number of steps along the X axis
+num_steps_y = 27  # Number of steps along the Y axis
 
 # Folder to store screenshots
 screenshot_folder = "screenshots"
@@ -83,17 +95,7 @@ if not os.path.exists(screenshot_folder):
 
 # JSON file to store the click data
 log_file = "click_data.json"
-# Check if JSON file exists, otherwise create an empty list
-if not os.path.exists(log_file):
-    click_data = []
-    print(f"{log_file} does not exist. Creating a new empty list for click data.")
-else:
-    with open(log_file, "r") as f:
-        click_data = json.load(f)
-    # Ensure click_data is a list
-    if not isinstance(click_data, list):
-        print(f"Error: {log_file} is not in the expected list format. Resetting to an empty list.")
-        click_data = []
+click_data = []
 
 # Loop through the grid, clicking each point and capturing metadata
 for i in range(num_steps_x):
@@ -118,12 +120,6 @@ for i in range(num_steps_x):
 
         # Extract metadata and KXY from the screenshot (pop-up window OCR)
         metadata, kxy_data = extract_metadata_from_screenshot(screenshot_name)
-
-        # Save the OCR output line by line
-        with open("ocr_output.txt", "a") as output_file:
-            output_file.write(f"Screenshot: {screenshot_name}\n")
-            output_file.write(f"OCR Output:\n{metadata}\n")
-            output_file.write(f"Extracted KXY Data: {kxy_data}\n\n")
 
         # Store the collected data in the log
         click_entry = {
@@ -151,4 +147,14 @@ try:
 except Exception as e:
     print(f"Error saving to JSON file: {e}")
 
-print(f"All points processed and data saved.")
+# Once the scan is complete, reduce the list to the minimum number of points
+click_data = reduce_to_minimum_points(click_data, step_size)
+
+# Save the reduced data to a new JSON file for further processing
+reduced_log_file = "reduced_click_data.json"
+try:
+    with open(reduced_log_file, "w") as f:
+        json.dump(click_data, f, indent=4)
+    print(f"Reduced data saved to {reduced_log_file}.")
+except Exception as e:
+    print(f"Error saving reduced data to JSON file: {e}")

@@ -1,0 +1,66 @@
+import json
+
+# Function to load the click_data.json file
+def load_click_data(file_path):
+    try:
+        with open(file_path, "r") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading {file_path}: {e}")
+        return []
+
+# Function to analyze the click data
+def analyze_kxy_data(click_data):
+    kxy_data = {}
+    missing_kxy_data = 0
+    total_clicks = len(click_data)
+
+    # Iterate over each entry in the click_data
+    for entry in click_data:
+        kxy = entry.get('kxy', 'Not Available')
+        
+        if kxy != 'Not Available':
+            # Count unique KXY values and the number of clicks for each
+            if kxy in kxy_data:
+                kxy_data[kxy] += 1
+            else:
+                kxy_data[kxy] = 1
+        else:
+            missing_kxy_data += 1
+
+    # Return results
+    return {
+        "total_clicks": total_clicks,
+        "unique_kxy_count": len(kxy_data),
+        "kxy_data": kxy_data,
+        "missing_kxy_count": missing_kxy_data,
+    }
+
+# Function to print the report in a readable format
+def print_report(report):
+    print("\n--- KXY Data Analysis Report ---")
+    print(f"Total ADB Clicks: {report['total_clicks']}")
+    print(f"Unique KXY Tiles: {report['unique_kxy_count']}")
+    print(f"Tiles with Missing KXY Data: {report['missing_kxy_count']}")
+    
+    print("\nUnique KXY Data and Click Counts:")
+    for kxy, count in report['kxy_data'].items():
+        print(f"KXY: {kxy}, Clicks: {count}")
+    
+    print("\nReport generated successfully.")
+
+# Main function to load data, analyze, and print the report
+def main():
+    file_path = "click_data.json"
+
+    # Load the click data from the file
+    click_data = load_click_data(file_path)
+
+    # Analyze the KXY data
+    report = analyze_kxy_data(click_data)
+
+    # Print the report
+    print_report(report)
+
+if __name__ == "__main__":
+    main()

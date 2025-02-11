@@ -4,6 +4,7 @@ import os
 import pytesseract
 from PIL import Image
 import json
+import math
 
 # Define ADB command function
 def adb_command(command):
@@ -67,41 +68,60 @@ def is_point_in_bad_area(x, y):
             return True
     return False
 
-# Set starting point
-start_x = 16  # Starting X coordinate
-start_y = 33  # Starting Y coordinate
-step_size = 50  # Step size (distance between points)
+# Spiral movement generator with boundary check (1600x900 screen)
+def generate_spiral(start_x, start_y, max_radius, step_size, width=1600, height=900):
+    # Generate spiral pattern while ensuring points are within the screen bounds
+    points = []
+    radius = 0
+    angle = 0
+    while radius <= max_radius:
+        # Calculate next point in the spiral
+        x = start_x + radius * math.cos(angle)
+        y = start_y + radius * math.sin(angle)
 
-# Number of steps (You can modify this based on the grid size)
-num_steps_x = 32  # Number of steps along the X axis
-num_steps_y = 18  # Number of steps along the Y axis
+        # Check if the point is within the screen bounds (1600x900)
+        if 0 <= x < width and 0 <= y < height:
+            points.append((int(x), int(y)))
+        else:
+            break  # Stop generating points if out of bounds
 
-# Folder to store screenshots
-screenshot_folder = "screenshots"
-if not os.path.exists(screenshot_folder):
-    os.makedirs(screenshot_folder)
+        angle += math.pi / 4  # Increase the angle to make a spiral
+        radius += step_size  # Increase the radius to move outward
+    return points
 
-# JSON file to store the click data
-log_file = "click_data.json"
-# Check if JSON file exists, otherwise create an empty list
-if not os.path.exists(log_file):
+# Function to adjust grid mapping parameters based on new data
+def adjust_grid_mapping(new_start_x, new_start_y, new_step_size, num_steps_x, num_steps_y):
+    # Output the new grid mapping parameters
+    print(f"Adjusted Starting Point: X={new_start_x}, Y={new_start_y}")
+    print(f"Adjusted Step Size: {new_step_size}")
+    print(f"Adjusted Number of Steps: X={num_steps_x}, Y={num_steps_y}")
+    return new_start_x, new_start_y, new_step_size, num_steps_x, num_steps_y
+
+# Main function to perform the grid scan and analyze
+def main():
+    # Define initial starting point and parameters
+    start_x = 800
+    start_y = 450
+    max_radius = 800  # Maximum distance from the center
+    step_size = 50    # Step size for each spiral turn
+    num_steps_x = 32
+    num_steps_y = 18
+
+    # Generate spiral pattern, ensuring points stay within bounds
+    points = generate_spiral(start_x, start_y, max_radius, step_size)
+    
+    # Folder to store screenshots
+    screenshot_folder = "screenshots"
+    if not os.path.exists(screenshot_folder):
+        os.makedirs(screenshot_folder)
+
+    # JSON file to store the click data
+    log_file = "click_data.json"
     click_data = []
-    print(f"{log_file} does not exist. Creating a new empty list for click data.")
-else:
-    with open(log_file, "r") as f:
-        click_data = json.load(f)
-    # Ensure click_data is a list
-    if not isinstance(click_data, list):
-        print(f"Error: {log_file} is not in the expected list format. Resetting to an empty list.")
-        click_data = []
 
-# Loop through the grid, clicking each point and capturing metadata
-for i in range(num_steps_x):
-    for j in range(num_steps_y):
-        # Calculate the ADB point
-        x = start_x + i * step_size
-        y = start_y + j * step_size
-
+    # Loop through the points and capture screenshots
+    for point in points:
+        x, y = point
         # Skip click if the point is inside any bad area
         if is_point_in_bad_area(x, y):
             print(f"Skipping point ({x}, {y}) - Inside bad area.")
@@ -118,12 +138,6 @@ for i in range(num_steps_x):
 
         # Extract metadata and KXY from the screenshot (pop-up window OCR)
         metadata, kxy_data = extract_metadata_from_screenshot(screenshot_name)
-
-        # Save the OCR output line by line
-        with open("ocr_output.txt", "a") as output_file:
-            output_file.write(f"Screenshot: {screenshot_name}\n")
-            output_file.write(f"OCR Output:\n{metadata}\n")
-            output_file.write(f"Extracted KXY Data: {kxy_data}\n\n")
 
         # Store the collected data in the log
         click_entry = {
@@ -143,12 +157,24 @@ for i in range(num_steps_x):
         # Sleep before next action
         time.sleep(0.2)
 
-# Save the log data to a JSON file
-try:
-    with open(log_file, "w") as f:
-        json.dump(click_data, f, indent=4)
-    print(f"Data saved to {log_file}.")
-except Exception as e:
-    print(f"Error saving to JSON file: {e}")
+    # Save the log data to a JSON file
+    try:
+        with open(log_file, "w") as f:
+            json.dump(click_data, f, indent=4)
+        print(f"Data saved to {log_file}.")
+    except Exception as e:
+        print(f"Error saving to JSON file: {e}")
 
-print(f"All points processed and data saved.")
+    # Prompt for adjusting grid mapping based on analysis
+    user_input = input("Would you like to try the suggested parameters for the next run? (yes/no): ")
+    if user_input.lower() == 'yes':
+        # Perform grid mapping adjustment based on analysis
+        # In a real-world scenario, here you would use your analysis function to adjust parameters
+        new_start_x, new_start_y, new_step_size, new_num_steps_x, new_num_steps_y = adjust_grid_mapping(start_x, start_y, step_size, num_steps_x, num_steps_y)
+        # Proceed with the new grid mapping (adjusted params)
+        print(f"Proceeding with new grid mapping: {new_start_x}, {new_start_y}, {new_step_size}")
+    else:
+        print("Scan completed. No further action taken.")
+
+if __name__ == "__main__":
+    main()
