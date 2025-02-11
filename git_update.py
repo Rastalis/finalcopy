@@ -1,10 +1,22 @@
 import subprocess
 import time
 
-REPO_DIR = "C:/Users/brian/finalcopy"  # Change this to your repo path
-PULL_INTERVAL = 30  # Check for updates every 30 seconds
+def run_git_command(command):
+    """Executes a Git command and prints output."""
+    result = subprocess.run(command, shell=True, capture_output=True, text=True)
+    print(result.stdout)
+    print(result.stderr)
 
-while True:
-    print("🔄 Checking for updates...")
-    subprocess.run(["git", "-C", REPO_DIR, "pull"], check=False)
-    time.sleep(PULL_INTERVAL)
+print("🔄 Checking for updates...")
+
+# Add all changes
+run_git_command("git add .")
+
+# Commit with timestamp
+commit_message = f"Auto-update: {time.strftime('%Y-%m-%d %H:%M:%S')}"
+run_git_command(f'git commit -m "{commit_message}"')
+
+# Push changes
+run_git_command("git push origin main")
+
+print("✅ Changes pushed successfully!")
