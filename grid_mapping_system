@@ -1,0 +1,135 @@
+import time
+import subprocess
+import pytesseract
+from PIL import Image
+import json
+import numpy as np
+import os
+
+# Define ADB command function
+def adb_command(command):
+    result = subprocess.run(command, shell=True, capture_output=True, text=True)
+    return result.stdout
+
+# Function to take screenshot
+def take_screenshot(screenshot_name):
+    adb_command(f"adb exec-out screencap -p > {screenshot_name}")
+    print(f"Captured screenshot: {screenshot_name}")
+
+# Function to close the pop-up window by sending the Escape key (keycode 111)
+def close_popup():
+    adb_command("adb shell input keyevent 111")  # 111 corresponds to KEYCODE_ESCAPE
+    print("Sent Escape key to close pop-up")
+
+# Function to extract metadata and KXY from the screenshot (using OCR)
+def extract_metadata_from_screenshot(screenshot_path):
+    img = Image.open(screenshot_path)
+    cropped_img = crop_bad_area(img)  # Crop bad area to improve OCR accuracy
+    text = pytesseract.image_to_string(cropped_img)
+    print(f"OCR Output:\n{text}")
+    kxy_data = None
+    for line in text.split("\n"):
+        if "K" in line and "X" in line and "Y" in line:
+            kxy_data = line.strip()
+    print(f"Extracted KXY Data: {kxy_data}")
+    return text, kxy_data
+
+# Crop bad areas (adjust coordinates for edge detection)
+def crop_bad_area(image):
+    bad_area = (396, 0, 1382, 82)  # Example, change based on edge areas
+    cropped_image = image.copy()
+    cropped_image.paste((255, 255, 255), (bad_area[0], bad_area[1], bad_area[2], bad_area[3]))
+    return cropped_image
+
+# Check if point is within bad area
+def is_point_in_bad_area(x, y):
+    bad_areas = [
+        ((396, 0), (1382, 82)),
+        ((0, 589), (84, 765)),
+        ((1468, 779), (1594, 894)),
+        ((1522, 281), (1585, 335)),
+    ]
+    for area in bad_areas:
+        (x1, y1), (x2, y2) = area
+        if x1 <= x <= x2 and y1 <= y <= y2:
+            return True
+    return False
+
+# Function to capture a template from the pop-up window
+def capture_template_from_popup(x, y):
+    screenshot_name = f"templates/template_x{x}_y{y}.png"
+    
+    # Take a screenshot of the pop-up window that is consistent in size and location
+    adb_command(f"adb shell screencap -p /sdcard/screenshot.png")  # Capture full screen
+    adb_command(f"adb pull /sdcard/screenshot.png {screenshot_name}")  # Pull the screenshot
+
+    # Use PIL or OpenCV to crop the region of the pop-up window
+    img = Image.open(screenshot_name)
+    template = crop_popup_window(img)  # Crop the pop-up window
+    template.save(f"templates/template_x{x}_y{y}.png")
+
+    print(f"Captured template for tile at ({x}, {y})")
+
+# Crop the pop-up window (used for template extraction)
+def crop_popup_window(image):
+    # Define the coordinates for the region of the pop-up window you want to capture
+    left = 635  # X coordinate of the left edge of the pop-up
+    top = 178   # Y coordinate of the top edge of the pop-up
+    right = 735 # X coordinate of the right edge of the pop-up
+    bottom = 221 # Y coordinate of the bottom edge of the pop-up
+
+    # Crop the image to the defined region
+    cropped_image = image.crop((left, top, right, bottom))
+
+    return cropped_image
+
+# Set up grid mapping and step size
+start_x, start_y = 16, 33
+step_size = 50
+num_steps_x, num_steps_y = 32, 18
+
+# Screenshot folder and log file setup
+screenshot_folder = "screenshots"
+log_file = "click_data.json"
+if not os.path.exists(screenshot_folder):
+    os.makedirs(screenshot_folder)
+if not os.path.exists(log_file):
+    click_data = []
+else:
+    with open(log_file, "r") as f:
+        click_data = json.load(f)
+
+# Loop through grid, clicking and taking screenshots
+for i in range(num_steps_x):
+    for j in range(num_steps_y):
+        x = start_x + i * step_size
+        y = start_y + j * step_size
+
+        if is_point_in_bad_area(x, y):
+            continue
+
+        print(f"Clicking point ({x}, {y})")
+        adb_command(f"adb shell input tap {x} {y}")
+        time.sleep(0.2)
+
+        screenshot_name = f"{screenshot_folder}/screenshot_x{x}_y{y}.png"
+        take_screenshot(screenshot_name)
+        
+        metadata, kxy_data = extract_metadata_from_screenshot(screenshot_name)
+        
+        click_entry = {
+            "x": x, "y": y, "screenshot": screenshot_name,
+            "metadata": metadata, "kxy": kxy_data if kxy_data else "Not Available"
+        }
+        click_data.append(click_entry)
+
+        # Capture template from the pop-up window
+        capture_template_from_popup(x, y)
+
+        close_popup()
+        time.sleep(0.2)
+
+# Save data to JSON
+with open(log_file, "w") as f:
+    json.dump(click_data, f, indent=4)
+print(f"Data saved to {log_file}.")

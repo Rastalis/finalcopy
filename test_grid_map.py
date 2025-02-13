@@ -80,13 +80,13 @@ def reduce_to_minimum_points(click_data, step_size):
     return reduced_click_data
 
 # Set starting point
-start_x = 16  # Starting X coordinate
-start_y = 33  # Starting Y coordinate
-step_size = 30  # Small step size to cover more ground
+start_x = 100  # Starting X coordinate
+start_y = 100  # Starting Y coordinate
+step_size = 50  # Small step size to cover more ground
 
 # Number of steps (You can modify this based on the grid size)
-num_steps_x = 53  # Number of steps along the X axis
-num_steps_y = 27  # Number of steps along the Y axis
+num_steps_x = 30  # Number of steps along the X axis
+num_steps_y = 16 # Number of steps along the Y axis
 
 # Folder to store screenshots
 screenshot_folder = "screenshots"
