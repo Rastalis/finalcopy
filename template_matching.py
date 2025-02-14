@@ -61,7 +61,6 @@ def match_template(image, template, thresholds=[0.8, 0.9]):
         matched_locations.append(locations)
     return matched_locations
 
-
 # Adjust the template size based on the zoom level (scale)
 def adjust_template_size(template, zoom_factor):
     new_width = int(template.shape[1] * zoom_factor)

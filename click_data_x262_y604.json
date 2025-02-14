@@ -1,0 +1,31 @@
+{
+    "x": 99,
+    "y": 893,
+    "screenshot": "screenshots/screenshot_x99_y893.png",
+    "metadata": "",
+    "kxy": "K:914 X:254 Y:604"
+}{
+    "x": 332,
+    "y": 893,
+    "screenshot": "screenshots/screenshot_x332_y893.png",
+    "metadata": "Kingdom of Astiniel\n\nTransfer Occupy\n\nK:914 X:256\n\n",
+    "kxy": "K:914 X:256 Y:604"
+}{
+    "x": 568,
+    "y": 893,
+    "screenshot": "screenshots/screenshot_x568_y893.png",
+    "metadata": "",
+    "kxy": "K:914 X:258 Y:60."
+}{
+    "x": 802,
+    "y": 893,
+    "screenshot": "screenshots/screenshot_x802_y893.png",
+    "metadata": "Grassland\n\nKingdom of Astiniel\n\nTransfer Occupy\n\nK:914 X:260 Y:6\n\n",
+    "kxy": "K:914 X:260 Y:6"
+}{
+    "x": 1262,
+    "y": 893,
+    "screenshot": "screenshots/screenshot_x1262_y893.png",
+    "metadata": "Grassland\n\nKingdom of Astiniel\n\nTransfer Occupy\n\nK:914 X:264 Y:604\n\n",
+    "kxy": "K:914 X:264 Y:604"
+}

@@ -18,6 +18,7 @@ time.sleep(5)
 initial_position = pyautogui.position()
 
 # Click the mouse repeatedly
+counter = 0
 while True:
     # Get the current mouse position
     current_position = pyautogui.position()
@@ -27,4 +28,7 @@ while True:
         break
 
     pyautogui.click()
-    time.sleep(0.1)  # Adjust this value to change the click speed
+    counter += 1
+    if counter == 100:
+        time.sleep(4)  # Wait for 4 seconds
+        counter = 0  # Reset the counter
