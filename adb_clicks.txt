@@ -1,0 +1,1216 @@
+adb shell input tap 99 451
+adb shell input tap 332 451
+adb shell input tap 568 451
+adb shell input tap 802 451
+adb shell input tap 1031 451
+adb shell input tap 1262 451
+adb shell input tap 1479 451
+adb shell input tap 99 893
+adb shell input tap 332 893
+adb shell input tap 568 893
+adb shell input tap 802 893
+adb shell input tap 1031 893
+adb shell input tap 1262 893
+adb shell input tap 1470 889
+adb shell input tap 15 850
+adb shell input tap 215 850
+adb shell input tap 450 850
+adb shell input tap 684 850
+adb shell input tap 916 850
+adb shell input tap 1145 850
+adb shell input tap 1377 850
+adb shell input tap 99 795
+adb shell input tap 332 795
+adb shell input tap 568 795
+adb shell input tap 802 795
+adb shell input tap 1031 795
+adb shell input tap 1262 795
+adb shell input tap 1470 795
+adb shell input tap 215 734
+adb shell input tap 450 734
+adb shell input tap 684 734
+adb shell input tap 916 734
+adb shell input tap 1145 734
+adb shell input tap 1377 734
+adb shell input tap 1581 734
+adb shell input tap 99 678
+adb shell input tap 332 678
+adb shell input tap 568 678
+adb shell input tap 802 678
+adb shell input tap 1031 678
+adb shell input tap 1262 678
+adb shell input tap 1479 678
+adb shell input tap 215 620
+adb shell input tap 450 620
+adb shell input tap 684 620
+adb shell input tap 916 620
+adb shell input tap 1145 620
+adb shell input tap 1377 620
+adb shell input tap 1581 620
+adb shell input tap 99 562
+adb shell input tap 332 562
+adb shell input tap 568 562
+adb shell input tap 802 562
+adb shell input tap 1031 562
+adb shell input tap 1262 562
+adb shell input tap 1479 562
+adb shell input tap 8 505
+adb shell input tap 215 505
+adb shell input tap 450 505
+adb shell input tap 684 505
+adb shell input tap 916 505
+adb shell input tap 1145 505
+adb shell input tap 1377 505
+adb shell input tap 1581 505
+adb shell input tap 8 394
+adb shell input tap 215 394
+adb shell input tap 450 394
+adb shell input tap 684 394
+adb shell input tap 916 394
+adb shell input tap 1145 394
+adb shell input tap 1377 394
+adb shell input tap 1581 394
+adb shell input tap 99 338
+adb shell input tap 332 338
+adb shell input tap 568 338
+adb shell input tap 802 338
+adb shell input tap 1031 338
+adb shell input tap 1262 338
+adb shell input tap 1479 338
+adb shell input tap 8 281
+adb shell input tap 215 281
+adb shell input tap 450 281
+adb shell input tap 684 281
+adb shell input tap 916 281
+adb shell input tap 1145 281
+adb shell input tap 1377 281
+adb shell input tap 1581 265
+adb shell input tap 99 225
+adb shell input tap 332 225
+adb shell input tap 568 225
+adb shell input tap 802 225
+adb shell input tap 1031 225
+adb shell input tap 1262 225
+adb shell input tap 1479 225
+adb shell input tap 8 168
+adb shell input tap 215 168
+adb shell input tap 450 168
+adb shell input tap 684 168
+adb shell input tap 916 168
+adb shell input tap 1145 168
+adb shell input tap 1377 168
+adb shell input tap 1581 168
+adb shell input tap 99 112
+adb shell input tap 332 112
+adb shell input tap 568 112
+adb shell input tap 799 89
+adb shell input tap 1012 89
+adb shell input tap 1262 112
+adb shell input tap 1442 101
+adb shell input tap 8 61
+adb shell input tap 215 61
+adb shell input tap 373 61
+adb shell input tap 1392 61
+
+
+
+
+# Get the current timestamp
+timestamp=$(date +"%Y%m%d_%H%M%S")
+adb shell input tap 99 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1479 451
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 893
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 893
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 893
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 893
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 893
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 893
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1470 889
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 15 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 850
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1470 795
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1581 734
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1479 678
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1581 620
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1479 562
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 8 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1581 505
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 8 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1581 394
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1479 338
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 8 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 281
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1581 265
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 802 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1031 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1479 225
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 8 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 450 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 684 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 916 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1145 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1377 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1581 168
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 99 112
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 332 112
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 568 112
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 799 89
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1012 89
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1262 112
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1442 101
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 8 61
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 215 61
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 373 61
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
+adb shell input tap 1392 61
+# Take a screenshot on the device
+adb shell screencap -p /sdcard/screenshot.png
+# Pull the screenshot to the local machine
+adb pull /sdcard/screenshot.png ./screenshots/screenshot_$timestamp.png
+# Optionally, remove the screenshot from the device
+adb shell rm /sdcard/screenshot.png
+echo "Screenshot saved as screenshots/screenshot_$timestamp.png"
+adb shell input keyevent 111
