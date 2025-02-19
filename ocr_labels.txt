@@ -1,0 +1,6778 @@
+./game_templates/template_01.png | (99, 451) | 4,531,960
+21:04:04
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:241 Y:7
+
+a
+./game_templates/template_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:7
+
+kas
+./game_templates/template_03.png | (568, 451) | Stone “180,000
+
+Occupier
+
+K:914 X:245 Y:7
+
+lad
+./game_templates/template_04.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:7
+
+Fas
+./game_templates/template_05.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:7
+
+kas
+./game_templates/template_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:7
+./game_templates/template_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:7
+
+kas
+./game_templates/template_08.png | (99, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:15
+
+kas
+./game_templates/template_09.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:15
+
+kas
+./game_templates/template_10.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:15
+
+kas
+./game_templates/template_11.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:15
+
+kas
+./game_templates/template_12.png | (1031, 893) | Food
+
+Occupier
+
+K:914 X:249 Y:15
+
+lad
+./game_templates/template_13.png | (1262, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:15
+
+kas
+./game_templates/4_01.png | (99, 451) | 4,531,960
+21:01:38
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:241 Y:7
+
+a
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:7
+
+kas
+./game_templates/Stone_03.png | (568, 451) | Stone “180,000
+
+Occupier
+
+K:914 X:245 Y:7
+
+lad
+./game_templates/Grassland_04.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:7
+
+kas
+./game_templates/Grassland_05.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:7
+
+kas
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:7
+
+kas
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:7
+
+kas
+./game_templates/Grassland_08.png | (99, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:15
+
+kas
+./game_templates/Grassland_09.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:15
+
+kas
+./game_templates/Grassland_10.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:15
+
+kas
+./game_templates/Grassland_11.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:15
+
+kas
+./game_templates/Food_12.png | (1031, 893) | Food
+
+Occupier
+
+K:914 X:249 Y:15
+
+lad
+./game_templates/Forest_13.png | (1262, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:15
+
+kas
+./game_templates/Grassland_14.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:15
+
+kas
+./game_templates/4_01.png | (99, 451) | 4,531,960
+21:00:15
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:241 Y:7
+
+a
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:7
+
+kas
+./game_templates/4_01.png | (99, 451) | 4,531,960
+& 20:59:33
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:241 Y:7
+
+a
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+K:914 X:243 Y:7
+Za
+a? 5
+
+tye
+s +
+by ae aa ss
+
+wh oe
+
+s the: ee
+Sthebs a
+./game_templates/Stone_03.png | (568, 451) | Stone “180,000
+
+Occupier
+
+K:914 X:245 Y:7
+
+lad
+./game_templates/Grassland_04.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:7
+
+kas
+./game_templates/Grassland_05.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:7
+
+kas
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:7
+
+kas
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:7
+
+kas
+./game_templates/Grassland_08.png | (99, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:15
+
+kas
+./game_templates/Grassland_09.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:15
+
+kas
+./game_templates/Grassland_10.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:15
+
+kas
+./game_templates/Grassland_11.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:15
+./game_templates/Food_12.png | (1031, 893) | Food
+
+Occupier
+
+K:914 X:249 Y:15
+
+lad
+./game_templates/Forest_13.png | (1262, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:15
+
+kas
+./game_templates/Grassland_14.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:15
+
+kas
+./game_templates/Grassland_15.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:14
+
+kas
+./game_templates/Grassland_16.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:14
+
+kas
+./game_templates/315_17.png | (450, 850) | 315,082
+& 20:59:00
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:244 Y:14
+
+a
+./game_templates/Grassland_18.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:14
+
+kas
+./game_templates/Grassland_19.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:14
+
+kas
+./game_templates/Timber_20.png | (1145, 850) | Timber j 122,441
+
+Occupier
+
+K:914 X:250 Y:14
+
+lad
+./game_templates/Forest_21.png | (1377, 850) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:14
+
+kas
+./game_templates/4_22.png | (99, 451) | 4,531,960
+& 20:58:49
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:241 Y:7
+
+a
+./game_templates/Grassland_23.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:7
+
+kas
+./game_templates/Stone_24.png | (568, 451) | Stone “180,000
+
+Occupier
+
+K:914 X:245 Y:7
+
+lad
+./game_templates/Grassland_25.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:7
+
+Fas
+./game_templates/Grassland_26.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:7
+
+kas
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:7
+
+kas
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:7
+
+kas
+./game_templates/Grassland_29.png | (99, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:15
+
+kas
+./game_templates/Grassland_30.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:15
+
+kas
+./game_templates/Grassland_31.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:15
+
+kas
+./game_templates/Grassland_32.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:15
+
+kas
+./game_templates/Food_33.png | (1031, 893) | Food
+
+Occupier
+
+K:914 X:249 Y:15
+
+lad
+./game_templates/Forest_34.png | (1262, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:15
+
+kas
+./game_templates/Grassland_35.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:15
+
+kas
+./game_templates/Grassland_36.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:14
+
+kas
+./game_templates/Grassland_37.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:14
+
+kas
+./game_templates/20_38.png | (450, 850) | 20:58:14
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:244 Y:14
+
+a
+./game_templates/Grassland_39.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:14
+
+kas
+./game_templates/Grassland_40.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:14
+
+kas
+./game_templates/Timber_41.png | (1145, 850) | Timber j 122,441
+
+Occupier
+
+K:914 X:250 Y:14
+
+lad
+./game_templates/Forest_42.png | (1377, 850) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:14
+
+kas
+./game_templates/Forest_43.png | (99, 795) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:13
+
+kas
+./game_templates/Grassland_44.png | (332, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:13
+
+kas
+./game_templates/Grassland_45.png | (568, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:13
+
+kas
+./game_templates/Grassland_46.png | (802, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:13
+
+kas
+./game_templates/Grassland_47.png | (1031, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:13
+
+kas
+./game_templates/K_48.png | (1262, 795) | K:914 X:251 Y:13
+
+lad
+./game_templates/Grassland_49.png | (1470, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:13
+
+kas
+./game_templates/Forest_50.png | (215, 734) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:12
+
+kas
+./game_templates/K_51.png | (450, 734) | K:914 X:244 Y:12
+
+lad
+./game_templates/Grassland_52.png | (684, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:12
+
+kas
+./game_templates/Grassland_53.png | (916, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:12
+
+kas
+./game_templates/Grassland_54.png | (1145, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:250 Y:12
+
+kas
+./game_templates/Grassland_55.png | (1377, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:12
+
+kas
+./game_templates/Food_56.png | (1581, 734) | Food
+
+Occupier
+
+K:914 X:254 Y:12
+
+lad
+./game_templates/Grassland_57.png | (99, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:11
+
+kas
+./game_templates/Grassland_58.png | (332, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:11
+
+kas
+./game_templates/Grassland_59.png | (568, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:11
+
+kas
+./game_templates/yrilla_60.png | (802, 678) | yrilla (K:014 X:249 Y:591)
+e Guild.
+./game_templates/F250_61.png | (1031, 678) | F250) | 00) | Y10 1 | XL00) peeame (ea WW)
+
+ming!
+./game_templates/Grassland_62.png | (1262, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:11,
+./game_templates/Grassland_63.png | (1479, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:11
+
+kas
+./game_templates/Grassland_64.png | (215, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:10
+
+kas
+./game_templates/Food_65.png | (450, 620) | Food
+
+Occupier
+
+K:914 X:244 Y:10
+
+lad
+./game_templates/Grassland_66.png | (684, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:10
+
+kas
+./game_templates/Stone_67.png | (916, 620) | Stone “180,000
+
+Occupier
+
+K:914 X:248 Y:10
+
+lad
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:250 Y:10
+
+kas
+./game_templates/Grassland_69.png | (1377, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:10
+
+kas
+./game_templates/Forest_70.png | (1581, 620) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:254 Y:10
+
+kas
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:9
+
+kas
+./game_templates/Grassland_72.png | (332, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:9
+
+kas
+./game_templates/Grassland_73.png | (568, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:9
+./game_templates/Grassland_74.png | (802, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:9
+./game_templates/Kingdom_75.png | (1031, 562) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:9
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:9
+
+kas
+./game_templates/Grassland_77.png | (1479, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:9
+
+kas
+./game_templates/Grassland_78.png | (8, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:8
+
+kas
+./game_templates/Grassland_79.png | (215, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:8
+
+kas
+./game_templates/Grassland_80.png | (450, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:244 Y:8
+
+kas
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:8
+./game_templates/Grassland_82.png | (916, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:8
+./game_templates/121_83.png | (1145, 505) | 121,422
+
+Occupier
+
+K:914 X:250 Y:8
+
+lad
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:8
+
+kas
+./game_templates/Food_85.png | (1581, 505) | Food
+
+Occupier
+
+K:914 X:254
+
+lad
+./game_templates/Forest_86.png | (8, 394) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:6
+
+kas
+./game_templates/Grassland_87.png | (215, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:6
+
+kas
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:244 Y:6
+
+kas
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:6
+
+kas
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:6
+
+kas
+./game_templates/Grassland_91.png | (1145, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:250 Y:6
+
+kas
+./game_templates/Stone_92.png | (1377, 394) | Stone “180,000
+
+Occupier
+
+K:914 X:252
+
+lad
+./game_templates/Grassland_93.png | (1581, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:254 Y:6
+
+kas
+./game_templates/Grassland_94.png | (99, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:5
+
+kas
+./game_templates/Grassland_95.png | (332, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:5
+
+kas
+./game_templates/Forest_96.png | (568, 338) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:5
+
+kas
+./game_templates/Grassland_97.png | (802, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:5
+
+kas
+./game_templates/Grassland_98.png | (1031, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:5
+
+kas
+./game_templates/Grassland_99.png | (1262, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:5
+
+kas
+./game_templates/Grassland_100.png | (1479, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:5
+
+kas
+./game_templates/Grassland_101.png | (8, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:4
+
+kas
+./game_templates/Grassland_102.png | (215, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:4
+
+kas
+./game_templates/Grassland_103.png | (450, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:244 Y:4
+
+kas
+./game_templates/K_104.png | (684, 281) | K:914 X:246 Y:4
+
+lad
+./game_templates/Grassland_105.png | (916, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:4
+
+kas
+./game_templates/Grassland_106.png | (1145, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:250 Y:4
+
+kas
+./game_templates/Grassland_107.png | (1377, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:4
+
+kas
+./game_templates/Grassland_108.png | (1581, 265) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:254 Y:4
+
+kas
+./game_templates/Grassland_109.png | (99, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:3
+
+kas
+./game_templates/Grassland_110.png | (332, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:3
+
+kas
+./game_templates/Forest_111.png | (568, 225) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:3
+
+kas
+./game_templates/Grassland_112.png | (802, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:3
+
+kas
+./game_templates/Grassland_113.png | (1031, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:3
+
+kas
+./game_templates/Grassland_114.png | (1262, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:3
+
+kas
+./game_templates/Grassland_115.png | (1479, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:3
+
+kas
+./game_templates/Grassland_116.png | (8, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:2
+
+kas
+./game_templates/Grassland_117.png | (215, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:2
+./game_templates/Forest_118.png | (450, 168) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:244 Y:2
+
+kas
+./game_templates/Grassland_119.png | (684, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:246 Y:2
+
+kas
+./game_templates/Grassland_120.png | (916, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:248 Y:2
+
+kas
+./game_templates/Forest_121.png | (1145, 168) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:250 Y:2
+
+kas
+./game_templates/Forest_122.png | (1377, 168) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:2
+
+kas
+./game_templates/Grassland_123.png | (1581, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:254 Y:2
+
+kas
+./game_templates/Forest_124.png | (99, 112) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:241 Y:1
+
+kas
+./game_templates/Grassland_125.png | (332, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:243 Y:1
+
+kas
+./game_templates/Grassland_126.png | (568, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:245 Y:1
+
+kas
+./game_templates/Grassland_127.png | (799, 89) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:247 Y:1
+
+kas
+./game_templates/Grassland_128.png | (1012, 89) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:249 Y:1
+
+kas
+./game_templates/Forest_129.png | (1262, 112) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:251 Y:1
+
+kas
+./game_templates/Grassland_130.png | (1442, 101) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:253 Y:1
+
+kas
+./game_templates/Grassland_131.png | (8, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:240 Y:0
+
+kas
+./game_templates/Grassland_132.png | (215, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:242 Y:0
+
+kas
+./game_templates/Grassland_133.png | (373, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:244 Y:0
+
+kas
+./game_templates/Grassland_134.png | (1392, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:252 Y:0
+
+kas
+./game_templates/Unknown_01.png | (99, 451) | 
+./game_templates/P_02.png | (332, 451) | P:0/1
+
+e [P tabulos : Lv. 29
+802 shamsbabu has left the Guild.
+
+Kingdom of Astiniel
+
+Occupy
+
+K:914 X:52 Y:468
+./game_templates/P_03.png | (568, 451) | P:0/1
+
+Kingdom of Astiniel
+
+Occupy
+
+K:914 X:54 Y:468
+
+~~. > Pe
+ED
+ape - aon fete
+s Pat 50)
+of . = >
+./game_templates/P_04.png | (802, 451) | P:0/1
+
+es [P tabulos : Lv. 29
+802 shamsbabu has left the Guild.
+hays
+Ca =
+Kingdom of Astiniel
+Occupy
+K:914 X:56 Y:468
+' _ Slag _—
+~~ : >
+ng 2
+— es die
+2 eo
+y, 3 Ss >
+./game_templates/P_05.png | (1031, 451) | P:0/1
+
+e [P tabulos : Lv. 29
+802 shamsbabu has left the Guild.
+
+se
+Kingdom of Astiniel
+: Occupy
+eS K:914 X:55 Y:471
+x =) Se : :
+ny Q
+os - edie
+2 Recess
+r, 2S: — >
+./game_templates/Grassland_01.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:7
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:7
+./game_templates/6_03.png | (568, 451) | 6,013,116
+& 20:41:09
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:5 Y:7
+
+Ilad
+./game_templates/Grassland_04.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:7
+./game_templates/Forest_05.png | (1031, 451) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:7
+
+kas
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:7
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Forest_08.png | (99, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:15
+
+kas
+./game_templates/Grassland_09.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:15
+./game_templates/e_10.png | (568, 893) | &e ia lies len the Guild.
+
+Deal extra DMG when you hunt the same
+monster in succession.
+
+100%
+
+(02.4053
+
+@il 12:17
+ay Roose 159,34%
+
+(a7 33/960 33,960 + . 7
+
+“A Monster Hunt DMG Boost x6
+fy 5,444 47 32,664 i.
+
+Ke a
+= on
+
+(ee |r I ror as
+Rewards ir S||2| We | Ye? | Ny maa me
+./game_templates/Forest_11.png | (802, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:15
+./game_templates/Grassland_12.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:15
+./game_templates/Grassland_13.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:15
+./game_templates/XU_14.png | (1470, 889) | XU]Stabulos : Lv.
+babu has left th
+
+Kingdom of Astiniel
+
+K:914 X:13 Y:15
+./game_templates/Grassland_15.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:14
+./game_templates/Grassland_16.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:14
+./game_templates/Grassland_17.png | (450, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:14
+./game_templates/Grassland_18.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:14
+./game_templates/Grassland_19.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:14
+./game_templates/724_20.png | (1145, 850) | 724,416
+& 20:40:32
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:10 Y:14
+
+a
+./game_templates/Kingdom_21.png | (1377, 850) | Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Grassland_22.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:7
+./game_templates/Grassland_23.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:7
+./game_templates/6_24.png | (568, 451) | 6,013,116
+& 20:40:23
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:5 Y:7
+
+Ilad
+./game_templates/Grassland_25.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:7
+
+fas
+./game_templates/Forest_26.png | (1031, 451) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:7
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:7
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Forest_29.png | (99, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:15
+./game_templates/Grassland_30.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:15
+
+kas
+./game_templates/MaOVeOT_31.png | (568, 893) | MaOVeOT EEE ae L
+
+tabulos : awrilla
+&e Shamsbabu has len the Guild.
+
+Deal extra| DMG when you hunt the same
+monster in succession.
+
+Gavwrrilla)
+
+P02 40.09
+
+@i) 12:17
+ay Roose 159,34%
+
+) 433900733560 +t | CF
+
+“a Monster Hunt DMG Boost x6
+) Ay 5,444 Ay 32664
+rk a
+s 4» + &
+914 X:5Y:15 [A
+
+(ee |r I nae
+Rewards ir S||2| We | Yet he ir ha \y
+
+aah ‘) 600 > SOK
+./game_templates/Forest_32.png | (802, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:15
+./game_templates/Grassland_33.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:15
+./game_templates/Grassland_34.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:15
+./game_templates/Kingdom_35.png | (1470, 889) | Kingdom of Astiniel
+
+K:914 X:13 Y:15
+./game_templates/Grassland_36.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:14
+./game_templates/Grassland_37.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:14
+./game_templates/Grassland_38.png | (450, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:14
+./game_templates/Grassland_39.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:14
+./game_templates/Grassland_40.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:14
+./game_templates/724_41.png | (1145, 850) | 724,416
+& 20:39:48
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:10 Y:14
+
+a
+./game_templates/Kingdom_42.png | (1377, 850) | Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Grassland_43.png | (99, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:13
+./game_templates/Grassland_44.png | (332, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:13
+./game_templates/Grassland_45.png | (568, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:13
+./game_templates/Grassland_46.png | (802, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:13
+./game_templates/Grassland_47.png | (1031, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:13
+./game_templates/Shore_48.png | (1262, 795) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:11 Y:13
+./game_templates/Unknown_49.png | (1470, 795) | 
+./game_templates/Grassland_50.png | (215, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:12
+./game_templates/Grassland_51.png | (450, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:12
+./game_templates/Grassland_52.png | (684, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:12
+./game_templates/Grassland_53.png | (916, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:12
+./game_templates/Grassland_54.png | (1145, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:12
+./game_templates/Kingdom_55.png | (1377, 734) | Kingdom of Astiniel
+
+K:914 X:12 Y:12
+./game_templates/Beach_56.png | (1581, 734) | Beach
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:12
+./game_templates/Grassland_57.png | (99, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:11
+./game_templates/Forest_58.png | (332, 678) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:11
+./game_templates/K_59.png | (568, 678) | K:914 X:5 Y:11
+
+lad
+./game_templates/Grassland_60.png | (802, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:11
+./game_templates/Grassland_61.png | (1031, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:11
+./game_templates/Grassland_62.png | (1262, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:11
+./game_templates/Unknown_63.png | (1479, 678) | 
+./game_templates/Forest_64.png | (215, 620) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:10
+./game_templates/5_65.png | (450, 620) | 5,424,605
+@ 20:38:55
+
+Requires min. 2-player Rally
+
+K:914 X:4 Y:10
+
+a
+./game_templates/Grassland_66.png | (684, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:10
+./game_templates/Grassland_67.png | (916, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:10
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:10
+./game_templates/SN_69.png | (1377, 620) | SN) = 724,416
+fe Sh
+A
+
+& 20:38:46
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:12 Y:10
+
+Ilad
+./game_templates/Shore_70.png | (1581, 620) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:10
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:9
+./game_templates/Kingdom_72.png | (332, 562) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_73.png | (568, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:9
+./game_templates/Forest_74.png | (802, 562) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:9
+./game_templates/Forest_75.png | (1031, 562) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:9
+./game_templates/Grassland_77.png | (1479, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_78.png | (8, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:8
+./game_templates/Grassland_79.png | (215, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/isma_80.png | (450, 505) | isma bought Super spring Offer land shared Gittaways! <Tap this message to claim or vie---
+
+low lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra| DMG when you hunt the’same
+monster in succession.
+
+@) 12:25
+
+Boost:
+
+Monster Hunt DMG Boost x16
+4 2,042 4 32,672
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Forest_82.png | (916, 505) | Forest
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_83.png | (1145, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:8
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:8
+./game_templates/Grassland_85.png | (1581, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:8
+./game_templates/Grassland_86.png | (8, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:6
+./game_templates/Grassland_87.png | (215, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:6
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_91.png | (1145, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:6
+./game_templates/Grassland_92.png | (1377, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:6
+./game_templates/Grassland_93.png | (1581, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:6
+./game_templates/Grassland_94.png | (99, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:5
+./game_templates/Grassland_95.png | (332, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:5
+./game_templates/Grassland_96.png | (568, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:5
+./game_templates/T_97.png | (802, 338) | T<Tap this--
+from the Giftaway [---
+
+Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:5
+./game_templates/Grassland_98.png | (1031, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_99.png | (1262, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:5
+./game_templates/Grassland_100.png | (1479, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:5
+./game_templates/Grassland_101.png | (8, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:4
+./game_templates/Kingdom_102.png | (215, 281) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:4
+./game_templates/Grassland_103.png | (450, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:4
+./game_templates/Forest_104.png | (684, 281) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_105.png | (916, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_106.png | (1145, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:4
+./game_templates/K_107.png | (1377, 281) | K:914 X:12 Y:4
+
+lad
+./game_templates/Grassland_108.png | (1581, 265) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:4
+./game_templates/Forest_109.png | (99, 225) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:3
+./game_templates/Grassland_110.png | (332, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Kingdom_111.png | (568, 225) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:3
+./game_templates/Grassland_112.png | (802, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:3
+./game_templates/Grassland_113.png | (1031, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:3
+./game_templates/Forest_114.png | (1262, 225) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:3
+./game_templates/Grassland_115.png | (1479, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_116.png | (8, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:2
+./game_templates/Grassland_117.png | (215, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_118.png | (450, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:2
+./game_templates/Kingdom_119.png | (684, 168) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_120.png | (916, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_121.png | (1145, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:2
+./game_templates/Kingdom_122.png | (1377, 168) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:2
+./game_templates/Grassland_123.png | (1581, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:2
+./game_templates/20_124.png | (99, 112) | 20,945,944
+& 20:36:50
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:1 Y:1
+
+Ilad
+./game_templates/Grassland_125.png | (332, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:1
+./game_templates/Grassland_126.png | (568, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:1
+./game_templates/Forest_127.png | (799, 89) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:1
+./game_templates/Grassland_128.png | (1012, 89) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:1
+
+kas
+./game_templates/Grassland_129.png | (1262, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:1
+./game_templates/Stone_130.png | (1442, 101) | Stone “180,000
+
+Occupier
+
+K.914 X:13 Y:1
+pr
+./game_templates/Grassland_131.png | (8, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:0
+./game_templates/Grassland_132.png | (215, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:0
+./game_templates/0_133.png | (373, 61) | 0. iYv: 0. 5: 0.
+isma bought Super Spring Offer land shared Giftaways! <Tap this message to claim or vie---
+
+low lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra DMG when you hunt the’same
+monster in succession.
+
+@) 12:33
+
+Boost:
+
+Monster Hunt DMG Boost x6
+4 5,444 4 32,664
+
+——_ + fi
+7) Ry D>
+
+ee) 24h 600
+./game_templates/Grassland_134.png | (1392, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:0
+./game_templates/Grassland_01.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:7
+./game_templates/Grassland_03.png | (568, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:7
+./game_templates/Grassland_04.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:7
+./game_templates/Grassland_05.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:7
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:7
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:7
+./game_templates/Kingdom_08.png | (99, 893) | Kingdom of Astiniel
+
+14 X:13 Y:15
+./game_templates/Shore_09.png | (332, 893) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:15
+./game_templates/Grassland_10.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:15
+./game_templates/Grassland_11.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:15
+./game_templates/Grassland_12.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:15
+./game_templates/Grassland_13.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:23 Y:15
+./game_templates/Grassland_14.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:15
+./game_templates/Shore_15.png | (15, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Shore_16.png | (215, 850) | Shore
+
+Kingdom of Astiniel
+
+14 X:14 Y:14
+./game_templates/Shore_17.png | (450, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:16 Y:14
+./game_templates/Grassland_18.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:14
+./game_templates/Grassland_19.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:14
+./game_templates/Grassland_20.png | (1145, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:14
+./game_templates/Kingdom_21.png | (1377, 850) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+K:914 X:24 Y:14 os
+
+ws
+
+ce
+./game_templates/Grassland_22.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Grassland_23.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:7
+./game_templates/Grassland_24.png | (568, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:7
+./game_templates/Grassland_25.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:7
+./game_templates/Grassland_26.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:7
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:23 Y:7
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:7
+./game_templates/Kingdom_29.png | (99, 893) | Kingdom of Astiniel
+
+K:914 X:13 Y:15
+./game_templates/Shore_30.png | (332, 893) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:15
+./game_templates/Grassland_31.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:15
+./game_templates/Grassland_32.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:15
+./game_templates/Grassland_33.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:21 Y:15
+./game_templates/Grassland_34.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:15
+./game_templates/Grassland_35.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:15
+./game_templates/Shore_36.png | (15, 850) | Shore
+
+Kingdom of Astiniel
+
+14 X:12 Y:14
+./game_templates/Shore_37.png | (215, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:14
+./game_templates/Shore_38.png | (450, 850) | Shore
+
+Kingdom of Astiniel
+
+14 X:16 Y:14
+./game_templates/Grassland_39.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:14
+./game_templates/Grassland_40.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:20 Y:14
+./game_templates/Grassland_41.png | (1145, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:14
+./game_templates/Kingdom_42.png | (1377, 850) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:24 Y:14
+./game_templates/Kingdom_43.png | (99, 795) | Kingdom of Astiniel
+
+K:914 X:13 Y:13
+./game_templates/Kingdom_44.png | (332, 795) | Kingdom of Astiniel
+
+K:914 X:15 Y:13
+./game_templates/Shore_45.png | (568, 795) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:17 Y:13
+./game_templates/Grassland_46.png | (802, 795) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:13
+./game_templates/Kingdom_47.png | (1031, 795) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:21 Y:13
+./game_templates/Forest_48.png | (1262, 795) | Forest
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:23 Y:13 rs ee
+./game_templates/Grassland_49.png | (1470, 795) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:13
+./game_templates/Beach_50.png | (215, 734) | Beach
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:12
+./game_templates/Kingdom_51.png | (450, 734) | Kingdom of Astiniel
+
+K:914 X:16 Y:12
+./game_templates/Grassland_52.png | (684, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:12
+./game_templates/Grassland_53.png | (916, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:12
+./game_templates/Kingdom_54.png | (1145, 734) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:22 Y:12
+./game_templates/Grassland_55.png | (1377, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:12
+./game_templates/Grassland_56.png | (1581, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:26 Y:12
+./game_templates/Beach_57.png | (99, 678) | Beach
+
+Kingdom of Astiniel
+
+14 X:13 Y:11
+./game_templates/S02_58.png | (332, 678) | S02 How lucky!
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:11
+./game_templates/Shore_59.png | (568, 678) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:17 Y:11
+./game_templates/Grassland_60.png | (802, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:19 Y:11
+./game_templates/Grassland_61.png | (1031, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:11
+./game_templates/Grassland_62.png | (1262, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:11
+./game_templates/Grassland_63.png | (1479, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:11
+./game_templates/Kingdom_64.png | (215, 620) | Kingdom of Astiniel
+
+K:914 X:14 Y:10
+./game_templates/Shore_65.png | (450, 620) | Shore
+
+Kingdom of Astiniel
+
+14 X:16 Y:10
+./game_templates/S02_66.png | (684, 620) | S02 How lucky!
+
+Shore
+
+Kingdom of Astiniel
+
+K:914 X:18 Y:10
+./game_templates/Grassland_67.png | (916, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:10
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:10
+./game_templates/Grassland_69.png | (1377, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:10
+./game_templates/Grassland_70.png | (1581, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:10
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:9
+./game_templates/Shore_72.png | (332, 562) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:9
+./game_templates/Shore_73.png | (568, 562) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:17 Y:9
+./game_templates/Grassland_74.png | (802, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:9
+./game_templates/Grassland_75.png | (1031, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:9
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:9
+./game_templates/Grassland_77.png | (1479, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:9
+./game_templates/Kingdom_78.png | (8, 505) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:12 Y:8
+./game_templates/Grassland_79.png | (215, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:14 Y:8
+./game_templates/Shore_80.png | (450, 505) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:16 Y:8
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:8
+./game_templates/Grassland_82.png | (916, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:20 Y:8
+./game_templates/Kingdom_83.png | (1145, 505) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:8
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:8
+./game_templates/Kingdom_85.png | (1581, 505) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:8
+./game_templates/Grassland_86.png | (8, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:12 Y:6
+./game_templates/Grassland_87.png | (215, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:14 Y:6
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:16 Y:6
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+ll
+Transfer Occupy
+
+K:914 X:18 Y:6
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:6
+./game_templates/Deal_91.png | (1145, 394) | Deal extra, DMG when you hunt the’same
+
+monster in succession:
+
+@i) 12:19
+at Roose 159,34%
+
+) 433960733900 + |
+
+“i Monster Hunt DMG Boost x9
+
+4 3,403 Ay 30,627
+iy a
+4»
+
+>+ =
+a Ware aaill ane aspall went mo. eacesl’ om Tl on as
+Rewards ( | 7 D||@ he of Ny D> 25) é
+./game_templates/Grassland_92.png | (1377, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:6
+./game_templates/Kingdom_93.png | (1581, 394) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:6
+./game_templates/Grassland_94.png | (99, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:5
+./game_templates/Grassland_95.png | (332, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:5
+./game_templates/Forest_96.png | (568, 338) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:5
+./game_templates/Grassland_97.png | (802, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:5
+./game_templates/Grassland_98.png | (1031, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:5
+./game_templates/Grassland_99.png | (1262, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:5
+./game_templates/S02_100.png | (1479, 338) | S02 How lucky!
+
+Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:5
+./game_templates/K_101.png | (8, 281) | K:914 X:12 Y:4
+
+lad
+./game_templates/Grassland_102.png | (215, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:14 Y:4
+./game_templates/Grassland_103.png | (450, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:16 Y:4
+./game_templates/Kingdom_104.png | (684, 281) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:4
+./game_templates/Grassland_105.png | (916, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:4
+./game_templates/Grassland_106.png | (1145, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:4
+./game_templates/Grassland_107.png | (1377, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:4
+./game_templates/Grassland_108.png | (1581, 265) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:26 Y:4 rs ee
+./game_templates/Grassland_109.png | (99, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:3
+./game_templates/Grassland_110.png | (332, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:3
+./game_templates/Kingdom_111.png | (568, 225) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:3
+./game_templates/Kingdom_112.png | (802, 225) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:3
+./game_templates/Grassland_113.png | (1031, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:3
+./game_templates/Grassland_01.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:7
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:7
+./game_templates/6_03.png | (568, 451) | 6,013,116
+& 20:30:20
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:5 Y:7
+
+Ilad
+./game_templates/Grassland_04.png | (802, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:7
+./game_templates/Kingdom_05.png | (1031, 451) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:7
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Kingdom_08.png | (99, 893) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:15
+./game_templates/Grassland_09.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:15
+./game_templates/Isma_10.png | (568, 893) | Isma bought Super spring Offer 7 and shared Ciftaways! <Tap this message to claim or vie---
+
+Se How lucky! [HOKJOCEANOS08 got Spee0 Up 60 ™) x2 from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra, DMG when you hunt the’same
+
+#0 22005 monster in succession:
+
+@i! 12:17
+ay Roose 159,34%
+
+(a7 33,960 133,960 + . 7
+
+“i Monster Hunt DMG Boost x6
+
+fy 5,444 47 32,664 a
+~ on
+
+I 7
+K914 X:5 Y:15 [A
+Sa sin of
+ew, le 5) | fe eg
+Rewards  \E3 FS \|2| \ave| Yet ae > > Fi “ SN.
+./game_templates/Kingdom_11.png | (802, 893) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:15
+./game_templates/Grassland_12.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:15
+./game_templates/Grassland_13.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:15
+./game_templates/Unknown_14.png | (1470, 889) | 
+./game_templates/Grassland_15.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:14
+./game_templates/Grassland_16.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:14
+./game_templates/Grassland_17.png | (450, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:14
+./game_templates/Grassland_18.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:14
+./game_templates/Grassland_19.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:14
+./game_templates/724_20.png | (1145, 850) | 724,416
+& 20:29:43
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:10 Y:14
+
+Ilad
+./game_templates/Kingdom_21.png | (1377, 850) | Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Grassland_22.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:7
+./game_templates/Grassland_23.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:7
+./game_templates/6_24.png | (568, 451) | 6,013,116
+& 20:29:35
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:5 Y:7
+
+Ilad
+./game_templates/Forest_26.png | (1031, 451) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:7
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Kingdom_29.png | (99, 893) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:15
+./game_templates/Grassland_30.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:15
+./game_templates/Isma_31.png | (568, 893) | Isma bought Super spring Offer 7 and shared Ciftaways! <Tap this message to claim or vie---
+
+Se How lucky! [HOKJOCEANOS08 got Speco Up 60 ™) x2 from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra, DMG when you hunt the'same
+
+SO 22920 monster in succession:
+
+@i! 12:17
+ay Roose 159,34%
+
+(a7 33,960 133,960 + . 7
+
+“i Monster Hunt DMG Boost x6
+
+fy 5,444 47 32,664 a
+~ on
+
+i 7
+K914 X:5 Y:15 [P%
+ae cs =x re 0
+— er ¥/- Yer =| fies 2
+Rewards \P3 LW S||2| \ave| ft hy 600 » Boe
+./game_templates/Kingdom_32.png | (802, 893) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:15
+
+eases Gos
+wos os Deere 1)
+
+oat Se aN ees.
+./game_templates/Grassland_33.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:15
+./game_templates/Grassland_34.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:15
+./game_templates/Unknown_35.png | (1470, 889) | 
+./game_templates/Grassland_36.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:14
+./game_templates/Grassland_37.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:14
+./game_templates/Grassland_38.png | (450, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:14
+./game_templates/Grassland_39.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:14
+./game_templates/Grassland_40.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:14
+./game_templates/724_41.png | (1145, 850) | 724,416
+& 20:28:58
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:10 Y:14
+
+Ilad
+./game_templates/at_42.png | (1377, 850) | at at
+<g5" Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Grassland_43.png | (99, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:13
+./game_templates/Grassland_44.png | (332, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:13
+./game_templates/Grassland_45.png | (568, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:13
+./game_templates/Grassland_46.png | (802, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:13
+./game_templates/Grassland_47.png | (1031, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:13
+./game_templates/Kingdom_48.png | (1262, 795) | Kingdom of Astiniel
+
+K:914 X:11 Y:13
+./game_templates/Unknown_49.png | (1470, 795) | 
+./game_templates/Grassland_50.png | (215, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:12
+./game_templates/Grassland_51.png | (450, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:12
+./game_templates/Grassland_52.png | (684, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:12
+./game_templates/Grassland_53.png | (916, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:12
+./game_templates/Grassland_54.png | (1145, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:12
+./game_templates/Shore_55.png | (1377, 734) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:12
+./game_templates/Kingdom_56.png | (1581, 734) | Kingdom of Astiniel
+
+K:914 X:14 Y:12
+./game_templates/Grassland_57.png | (99, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:11
+./game_templates/Forest_58.png | (332, 678) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:11
+./game_templates/Unknown_59.png | (568, 678) | 
+./game_templates/Grassland_60.png | (802, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:11
+./game_templates/Grassland_61.png | (1031, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:11
+./game_templates/Grassland_62.png | (1262, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:11
+./game_templates/Unknown_63.png | (1479, 678) | 
+./game_templates/Forest_64.png | (215, 620) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:10
+./game_templates/5_65.png | (450, 620) | 5,424,605
+& 20:28:05
+
+Requires min. 2-player Rally
+
+K:914 X:4 Y:10
+
+Ilad
+./game_templates/Grassland_66.png | (684, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:10
+./game_templates/Grassland_67.png | (916, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:10
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:10
+./game_templates/SN_69.png | (1377, 620) | SN) = 724,416
+fe Sh
+A
+
+& 20:27:57
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:12 Y:10
+
+Ilad
+./game_templates/Kingdom_70.png | (1581, 620) | Kingdom of Astiniel
+
+K:914 X:14 Y:10
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:9
+./game_templates/Kingdom_72.png | (332, 562) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_73.png | (568, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:9
+./game_templates/Forest_74.png | (802, 562) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:9
+./game_templates/Forest_75.png | (1031, 562) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+ae
+es
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:9
+./game_templates/Grassland_77.png | (1479, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_78.png | (8, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:8
+./game_templates/Grassland_79.png | (215, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/BaGIN_80.png | (450, 505) | BaGIN Nearer  O. iYv: 0.0 5
+isma bought Super Spring Off trtaways! <Tap this message to claim or vie---
+How lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra DMG when you hunt the same
+monster in|succession.
+
+@). 12:25
+
+Boost:
+
+Monster Hunt DMG Boost x16
+4 2,042 4 32,672
+
+——§o+i
+Es
+
+Rewards seAQOS fie & 200 > offi (fe
+
+K:914 X:4 Y:8
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Forest_82.png | (916, 505) | Forest
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_83.png | (1145, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:8
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:8
+./game_templates/Grassland_85.png | (1581, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:8
+
+kas
+./game_templates/Grassland_86.png | (8, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:6
+./game_templates/Grassland_87.png | (215, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:6
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_91.png | (1145, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:6
+./game_templates/Grassland_92.png | (1377, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:6
+./game_templates/Grassland_93.png | (1581, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:6
+./game_templates/Grassland_94.png | (99, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:5
+./game_templates/Grassland_95.png | (332, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:5
+./game_templates/Grassland_96.png | (568, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:5
+./game_templates/Grassland_97.png | (802, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:5
+./game_templates/Grassland_98.png | (1031, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:5
+./game_templates/Grassland_99.png | (1262, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:5
+./game_templates/Grassland_100.png | (1479, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:5
+./game_templates/Grassland_101.png | (8, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:4
+./game_templates/Kingdom_102.png | (215, 281) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:4
+./game_templates/Grassland_103.png | (450, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:4
+./game_templates/Forest_104.png | (684, 281) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_105.png | (916, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_106.png | (1145, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:4
+./game_templates/K_107.png | (1377, 281) | K:914 X:12 Y:4
+
+lad
+./game_templates/Grassland_108.png | (1581, 265) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:4
+./game_templates/Forest_109.png | (99, 225) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:3
+./game_templates/Grassland_110.png | (332, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:3
+./game_templates/Forest_111.png | (568, 225) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:3
+./game_templates/Grassland_112.png | (802, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:3
+./game_templates/Grassland_113.png | (1031, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:3
+./game_templates/Forest_114.png | (1262, 225) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:3
+./game_templates/Grassland_115.png | (1479, 225) | Grassland
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_116.png | (8, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:2
+./game_templates/Grassland_117.png | (215, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_118.png | (450, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:2
+./game_templates/Kingdom_119.png | (684, 168) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_120.png | (916, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:2
+./game_templates/Grassland_121.png | (1145, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:2
+./game_templates/Kingdom_122.png | (1377, 168) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:2
+./game_templates/Grassland_123.png | (1581, 168) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:2
+./game_templates/20_124.png | (99, 112) | 20,945,944
+& 20:25:57
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:1 Y:1
+
+Ilad
+./game_templates/Grassland_125.png | (332, 112) | Grassland
+
+Transfer Occupy
+
+K:914 X:3 Y:1
+./game_templates/Grassland_126.png | (568, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:1
+./game_templates/Forest_127.png | (799, 89) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:1
+./game_templates/T_128.png | (1012, 89) | T<Tap this--
+from the Giftaway [---
+
+Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_129.png | (1262, 112) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:1
+./game_templates/Stone_130.png | (1442, 101) | Stone “180,000
+
+Occupier
+
+K:914 X:13 Y:1
+
+lad
+./game_templates/Grassland_131.png | (8, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:0
+./game_templates/Grassland_132.png | (215, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:0
+./game_templates/O_133.png | (373, 61) | O. iYv: 0.0 IPrs: 0.0
+isma bought Super spring Off iTtaways! <Tap this message to claim or vie---
+How lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra, DMG when you hunt the same
+monster in|succession.
+
+@) 12:33
+
+Boost:
+
+Monster Hunt DMG Boost x6
+4 5,444 4 32,664
+
+—- ——+ 3
+| Wo! yl a> (ah
+
+24h 600
+./game_templates/Grassland_134.png | (1392, 61) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:0
+./game_templates/Grassland_01.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:7
+./game_templates/Grassland_03.png | (568, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:7
+./game_templates/Grassland_05.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:7
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:7
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:7
+./game_templates/Kingdom_08.png | (99, 893) | Kingdom of Astiniel
+
+K:914 X:13 Y:15
+./game_templates/Shore_09.png | (332, 893) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:15
+./game_templates/Grassland_10.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:15
+./game_templates/Grassland_11.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:19 Y:15
+./game_templates/Grassland_12.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:15
+./game_templates/Grassland_13.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:15
+./game_templates/Grassland_14.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:15
+./game_templates/Shore_15.png | (15, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/S02_16.png | (215, 850) | S02 How lucky!
+
+Shore
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:14
+./game_templates/Shore_17.png | (450, 850) | Shore
+
+Kingdom of Astiniel
+
+14 X:16 Y:14
+./game_templates/Grassland_18.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:14
+./game_templates/Grassland_19.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:14
+./game_templates/Grassland_20.png | (1145, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:14
+./game_templates/Kingdom_21.png | (1377, 850) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:24 Y:14
+./game_templates/Grassland_22.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Grassland_23.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:7
+./game_templates/Grassland_24.png | (568, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:7
+./game_templates/Grassland_26.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:7
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:7
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:7
+./game_templates/Kingdom_29.png | (99, 893) | Kingdom of Astiniel
+
+K:914 X:13 Y:15
+./game_templates/Shore_30.png | (332, 893) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:15
+./game_templates/Grassland_31.png | (568, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:15
+./game_templates/Grassland_32.png | (802, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:15
+./game_templates/Grassland_33.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+EE
+Transfer Occupy
+
+K:914 X:21 Y:15
+./game_templates/Grassland_34.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:15
+./game_templates/Grassland_35.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:15
+./game_templates/Shore_36.png | (15, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Shore_37.png | (215, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:14
+./game_templates/Shore_38.png | (450, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:16 Y:14
+./game_templates/Grassland_39.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:18 Y:14
+./game_templates/Grassland_40.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:14
+./game_templates/Grassland_41.png | (1145, 850) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:14
+./game_templates/Kingdom_42.png | (1377, 850) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+K:914 X:24 Y:14 os
+
+ws
+
+ce
+./game_templates/Kingdom_43.png | (99, 795) | Kingdom of Astiniel
+
+K:914 X:13 Y:13
+./game_templates/Kingdom_44.png | (332, 795) | Kingdom of Astiniel
+
+K:914 X:15 Y:13
+./game_templates/Shore_45.png | (568, 795) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:17 Y:13
+./game_templates/Grassland_46.png | (802, 795) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:13
+./game_templates/Kingdom_47.png | (1031, 795) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:21 Y:13
+./game_templates/Forest_48.png | (1262, 795) | Forest
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:23 Y:13 rs ee
+./game_templates/Grassland_49.png | (1470, 795) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:13
+./game_templates/Beach_50.png | (215, 734) | Beach
+
+Kingdom of Astiniel
+
+K:914 X:14 Y:12
+./game_templates/Shore_51.png | (450, 734) | Shore
+
+Kingdom of Astiniel
+
+14 X:16 Y:12
+./game_templates/Grassland_52.png | (684, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:12
+./game_templates/Grassland_53.png | (916, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:12
+./game_templates/Kingdom_54.png | (1145, 734) | Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:22 Y:12
+./game_templates/Grassland_55.png | (1377, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:24 Y:12
+./game_templates/Grassland_56.png | (1581, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:12
+./game_templates/Kingdom_57.png | (99, 678) | Kingdom of Astiniel
+
+K:914 X:13 Y:11
+./game_templates/Kingdom_58.png | (332, 678) | Kingdom of Astiniel
+
+K:914 X:15 Y:11
+./game_templates/Shore_59.png | (568, 678) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:17 Y:11
+./game_templates/Grassland_60.png | (802, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:19 Y:11
+./game_templates/Grassland_61.png | (1031, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:11
+./game_templates/Grassland_62.png | (1262, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:11
+./game_templates/Grassland_63.png | (1479, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:11
+./game_templates/Kingdom_64.png | (215, 620) | Kingdom of Astiniel
+
+K:914 X:14 Y:10
+./game_templates/Shore_65.png | (450, 620) | Shore
+
+Kingdom of Astiniel
+
+14 X:16 Y:10
+./game_templates/Shore_66.png | (684, 620) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:18 Y:10
+./game_templates/Grassland_67.png | (916, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:10
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:10
+./game_templates/Grassland_69.png | (1377, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:10
+./game_templates/Grassland_70.png | (1581, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:10
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:9
+./game_templates/Shore_72.png | (332, 562) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:15 Y:9
+./game_templates/S02_73.png | (568, 562) | S02 How lucky!
+
+Shore
+
+Kingdom of Astiniel
+
+K:914 X:17 Y:9
+./game_templates/Grassland_74.png | (802, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:9
+./game_templates/Grassland_75.png | (1031, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:9
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:9
+./game_templates/Grassland_77.png | (1479, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:9
+./game_templates/Kingdom_78.png | (8, 505) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:12 Y:8
+./game_templates/Grassland_79.png | (215, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:14 Y:8
+./game_templates/Shore_80.png | (450, 505) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:16 Y:8
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:8
+./game_templates/Grassland_82.png | (916, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:8
+./game_templates/Kingdom_83.png | (1145, 505) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:8
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:8
+./game_templates/Kingdom_85.png | (1581, 505) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:8
+./game_templates/Grassland_86.png | (8, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:12 Y:6
+./game_templates/Grassland_87.png | (215, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:14 Y:6
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:16 Y:6
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+ll
+Transfer Occupy
+
+K:914 X:18 Y:6
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:6
+./game_templates/Isma_91.png | (1145, 394) | Isma bought Super spring Offer 7 and shared Ciftaways! <Tap this message to claim or vie---
+
+he How lucky! [HOKJOCEANOS08 got Spee0 Up 60 ™) x2 from the Giftaway [M\F]Clisma shared fro---
+
+Deal extra, DMG when you hunt the same
+
+SO os3 monsterin succession.
+
+@i) 12:19
+at Roose 159,34%
+
+33,960 / 33,960
+
+A Monster Hunt DMG Boost x9
+
+4 3,403 Ay 30,627 a
+on
+
+r= Daeslwel ». lanl oe U
+Rewards we| YeP | k =) ‘ie
+: eo) Gti 400 3h_) (SOK) SS ae
+./game_templates/Grassland_92.png | (1377, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:6
+./game_templates/Kingdom_93.png | (1581, 394) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:6
+./game_templates/Grassland_94.png | (99, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:5
+./game_templates/Grassland_95.png | (332, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:15 Y:5
+./game_templates/S02_96.png | (568, 338) | S02 How lucky!
+
+Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:5
+./game_templates/Grassland_97.png | (802, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:5
+./game_templates/Grassland_98.png | (1031, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:5
+./game_templates/Grassland_99.png | (1262, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:5
+./game_templates/S02_100.png | (1479, 338) | S02 How lucky!
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:5
+./game_templates/K_101.png | (8, 281) | K:914 X:12 Y:4
+
+a ;
+./game_templates/Grassland_102.png | (215, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:14 Y:4
+./game_templates/Grassland_103.png | (450, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:16 Y:4
+./game_templates/Kingdom_104.png | (684, 281) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:4
+./game_templates/Grassland_105.png | (916, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:20 Y:4
+./game_templates/Grassland_106.png | (1145, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:22 Y:4
+./game_templates/Grassland_107.png | (1377, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:4
+./game_templates/Grassland_108.png | (1581, 265) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:4
+./game_templates/Grassland_109.png | (99, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:13 Y:3
+./game_templates/Grassland_110.png | (332, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:3
+./game_templates/Kingdom_111.png | (568, 225) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:17 Y:3
+./game_templates/Kingdom_112.png | (802, 225) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:3
+./game_templates/Grassland_113.png | (1031, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:21 Y:3
+./game_templates/Grassland_114.png | (1262, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:3
+./game_templates/S02_115.png | (1479, 225) | S02 How lucky!
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:3
+./game_templates/Kingdom_116.png | (8, 168) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:12 Y:2
+./game_templates/Grassland_117.png | (215, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:14 Y:2
+./game_templates/O_118.png | (450, 168) | O. iYv: 0.0 IPrs: 0.0
+isma bought Super Spring Offer land shared Giftaways! <Tap this message to claim or vie---
+low lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+a
+
+Deal extra| DMG when you hunt the same
+monster in|succession.
+
+@) 12: 26
+
+Boost:
+
+Monster Hunt DMG Boost x16
+4 2,042 4 32,672
+./game_templates/Grassland_119.png | (684, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:18 Y:2
+./game_templates/isma_120.png | (916, 168) | isma bought Super spring Ofte
+
+low lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+
+INEXEROSIS
+= Deal extra| DMG when you hunt the same
+
+monster in|/succession.
+
+@) 12:24
+
+Boost:
+
+Monster Hunt DMG Boost x9
+4 3,403 4 30,627
+
+—- ——6+7
+Oke a
+
+“8h” 400
+./game_templates/Grassland_121.png | (1145, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:22 Y:2
+./game_templates/Grassland_122.png | (1377, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:24 Y:2
+./game_templates/Grassland_123.png | (1581, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:2
+./game_templates/Occupier_124.png | (99, 112) | &
+
+Occupier
+
+K:914 X:13 Y:1
+
+lad
+./game_templates/Grassland_125.png | (332, 112) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:15 Y:1
+./game_templates/Grassland_126.png | (568, 112) | Grassland
+
+Kingdom of Astiniel
+
+EEE ——— 4 *
+Transfer Occupy a
+
+K:914 X:17 Y:1
+./game_templates/Grassland_127.png | (799, 89) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:19 Y:1
+./game_templates/Grassland_128.png | (1012, 89) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:21 Y:1
+./game_templates/Grassland_129.png | (1262, 112) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:23 Y:1
+./game_templates/Grassland_130.png | (1442, 101) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:1
+./game_templates/Grassland_131.png | (8, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:12 Y:0
+./game_templates/Grassland_132.png | (215, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:14 Y:0
+./game_templates/Grassland_133.png | (373, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:16 Y:0
+./game_templates/Grassland_134.png | (1392, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:0
+./game_templates/Grassland_01.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:7
+./game_templates/Kingdom_02.png | (332, 451) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:27 Y:7
+./game_templates/Kingdom_03.png | (568, 451) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:29 Y:7
+./game_templates/Grassland_05.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:33 Y:7
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:35 Y:7
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:7
+./game_templates/Grassland_08.png | (99, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:15
+./game_templates/Shore_09.png | (332, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:27 Y:15
+./game_templates/Kingdom_10.png | (568, 893) | Kingdom of Astiniel
+
+14 X:29 Y:15
+./game_templates/Shore_11.png | (802, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:31 Y:15
+./game_templates/Shore_12.png | (1031, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:33 Y:15
+./game_templates/Shore_13.png | (1262, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:35 Y:15
+./game_templates/Grassland_14.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:15
+./game_templates/Forest_15.png | (15, 850) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:14
+./game_templates/14_16.png | (215, 850) | 14 X:26 Y:14
+./game_templates/Kingdom_17.png | (450, 850) | Kingdom of Astiniel
+
+K:914 X:28 Y:14
+./game_templates/Shore_18.png | (684, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:30 Y:14
+./game_templates/K_19.png | (916, 850) | K:914 X:32 Y:14
+./game_templates/Kingdom_20.png | (1145, 850) | Kingdom of Astiniel
+
+K:914 X:34 Y:14
+./game_templates/K_21.png | (1377, 850) | K:914 X:36 Y:14
+./game_templates/Grassland_22.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:7
+./game_templates/Kingdom_23.png | (332, 451) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:27 Y:7
+./game_templates/Kingdom_24.png | (568, 451) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:29 Y:7
+./game_templates/Grassland_26.png | (1031, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:33 Y:7
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:35 Y:7
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:7
+./game_templates/Grassland_29.png | (99, 893) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:15
+./game_templates/Shore_30.png | (332, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:27 Y:15
+./game_templates/Kingdom_31.png | (568, 893) | Kingdom of Astiniel
+
+14 X:29 Y:15
+./game_templates/Shore_32.png | (802, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:31 Y:15
+./game_templates/Shore_33.png | (1031, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:33 Y:15
+./game_templates/Shore_34.png | (1262, 893) | Shore
+
+Kingdom of Astiniel
+
+14 X:35 Y:15
+./game_templates/Grassland_35.png | (1470, 889) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:15
+./game_templates/Forest_36.png | (15, 850) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:14
+./game_templates/K_37.png | (215, 850) | K:914 X:26 Y:14
+./game_templates/Kingdom_38.png | (450, 850) | Kingdom of Astiniel
+
+K:914 X:28 Y:14
+./game_templates/Shore_39.png | (684, 850) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:30 Y:14
+./game_templates/K_40.png | (916, 850) | K:914 X:32 Y:14
+./game_templates/Kingdom_41.png | (1145, 850) | Kingdom of Astiniel
+
+K:914 X:34 Y:14
+./game_templates/K_42.png | (1377, 850) | K:914 X:36 Y:14
+./game_templates/Grassland_43.png | (99, 795) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:13
+./game_templates/Shore_44.png | (332, 795) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:27 Y:13
+./game_templates/Kingdom_45.png | (568, 795) | Kingdom of Astiniel
+
+K:914 X:29 Y:13
+./game_templates/Kingdom_46.png | (802, 795) | Kingdom of Astiniel
+
+K:914 X:31 Y:13
+./game_templates/Shore_47.png | (1031, 795) | Shore
+
+Kingdom of Astiniel
+
+14 X:33 Y:13
+./game_templates/Kingdom_48.png | (1262, 795) | Kingdom of Astiniel
+
+K:914 X:35 Y:13
+./game_templates/Shore_49.png | (1470, 795) | Shore
+
+14 X:37 Y:13
+./game_templates/Grassland_50.png | (215, 734) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:12
+./game_templates/Shore_51.png | (450, 734) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:28 Y:12
+./game_templates/Kingdom_52.png | (684, 734) | Kingdom of Astiniel
+
+K:914 X:30 Y:12
+./game_templates/K_53.png | (916, 734) | K:914 X:32 Y:12
+./game_templates/Shore_54.png | (1145, 734) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:34 Y:12
+./game_templates/14_55.png | (1377, 734) | 14 X:36 Y:12
+./game_templates/Forest_56.png | (1581, 734) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:38 Y:12
+./game_templates/Grassland_57.png | (99, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:11
+./game_templates/14_58.png | (332, 678) | 14 X:27 Y:11
+./game_templates/Beach_59.png | (568, 678) | Beach
+
+Kingdom of Astiniel
+
+K:914 X:29 Y:11
+./game_templates/Shore_60.png | (802, 678) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:31 Y:11
+./game_templates/Grassland_61.png | (1031, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+14 X:33 Y:11
+./game_templates/K_62.png | (1262, 678) | K:914 X:35 Y:11
+./game_templates/Grassland_63.png | (1479, 678) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:11
+./game_templates/Grassland_64.png | (215, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:10
+./game_templates/Beach_65.png | (450, 620) | Beach
+
+Kingdom of Astiniel
+
+K:914 X:28 Y:10
+./game_templates/Shore_66.png | (684, 620) | Shore
+
+Kingdom of Astiniel
+
+14 X:30 Y:10
+./game_templates/1_67.png | (916, 620) | 1,116,502
+& 20:18:13
+
+7
+a
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:32 Y:10
+
+lad
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:34 Y:10
+./game_templates/Grassland_69.png | (1377, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:36 Y:10
+./game_templates/Grassland_70.png | (1581, 620) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:38 Y:10
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:9
+./game_templates/Grassland_72.png | (332, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:27 Y:9
+./game_templates/Grassland_73.png | (568, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:29 Y:9
+./game_templates/Grassland_74.png | (802, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:31 Y:9
+./game_templates/Food_75.png | (1031, 562) | Food
+
+Occupier
+
+K:914 X:33 Y:
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:35 Y:9
+./game_templates/Forest_77.png | (1479, 562) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:9
+./game_templates/Grassland_78.png | (8, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:8
+./game_templates/Forest_79.png | (215, 505) | Forest
+
+Kingdom of Astiniel
+
+~ EEE
+73 ‘ Transfer Occupy
+
+K:914 X:26 Y:8
+
+|
+./game_templates/Grassland_80.png | (450, 505) | Grassland
+
+Common
+
+EE
+Transfer Occupy
+
+K:914 X:28 Y:8
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:30 Y:8
+./game_templates/Grassland_82.png | (916, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:32 Y:8
+./game_templates/Grassland_83.png | (1145, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:34 Y:8
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:36 Y:8
+./game_templates/Grassland_85.png | (1581, 505) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:38 Y:8
+./game_templates/Grassland_86.png | (8, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:6
+./game_templates/Forest_87.png | (215, 394) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:6
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:28 Y:6
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+ll
+Transfer Occupy
+
+K:914 X:30 Y:6
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:32 Y:6
+./game_templates/Grassland_91.png | (1145, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:34 Y:6
+./game_templates/Grassland_92.png | (1377, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:36 Y:6
+./game_templates/Grassland_93.png | (1581, 394) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:38 Y:6
+./game_templates/Kingdom_94.png | (99, 338) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:5
+./game_templates/Kingdom_95.png | (332, 338) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:27 Y:5
+./game_templates/Grassland_96.png | (568, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:29 Y:5
+./game_templates/Grassland_97.png | (802, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:31 Y:5
+./game_templates/Forest_98.png | (1031, 338) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:33 Y:5
+./game_templates/Forest_99.png | (1262, 338) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:35 Y:5
+./game_templates/Grassland_100.png | (1479, 338) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:5
+./game_templates/Grassland_101.png | (8, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:4
+./game_templates/Grassland_102.png | (215, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:4
+./game_templates/Grassland_103.png | (450, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:28 Y:4
+./game_templates/Grassland_104.png | (684, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:30 Y:4
+./game_templates/Forest_105.png | (916, 281) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:32 Y:4
+./game_templates/Grassland_106.png | (1145, 281) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:34 Y:4
+./game_templates/Forest_107.png | (1377, 281) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:36 Y:4
+./game_templates/Forest_108.png | (1581, 265) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:38 Y:4
+./game_templates/Kingdom_109.png | (99, 225) | Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:3
+./game_templates/Grassland_110.png | (332, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:27 Y:3
+./game_templates/Grassland_111.png | (568, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:29 Y:3
+./game_templates/Grassland_112.png | (802, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:31 Y:3
+./game_templates/Grassland_113.png | (1031, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:33 Y:3
+./game_templates/Forest_114.png | (1262, 225) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:35 Y:3
+./game_templates/Grassland_115.png | (1479, 225) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:3
+./game_templates/Grassland_116.png | (8, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:2
+./game_templates/Grassland_117.png | (215, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:2
+./game_templates/Grassland_118.png | (450, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:28 Y:2
+./game_templates/Grassland_119.png | (684, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:30 Y:2
+./game_templates/Grassland_120.png | (916, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:32 Y:2
+./game_templates/Grassland_121.png | (1145, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:34 Y:2
+./game_templates/Grassland_122.png | (1377, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:36 Y:2
+./game_templates/Grassland_123.png | (1581, 168) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:38 Y:2
+./game_templates/Grassland_124.png | (99, 112) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:25 Y:1
+./game_templates/Forest_125.png | (332, 112) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:27 Y:1
+./game_templates/Grassland_126.png | (568, 112) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:29 Y:1
+./game_templates/Grassland_127.png | (799, 89) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:31 Y:1
+./game_templates/Grassland_128.png | (1012, 89) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:33 Y:1
+./game_templates/Grassland_129.png | (1262, 112) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:35 Y:1
+./game_templates/Forest_130.png | (1442, 101) | Forest
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:37 Y:1
+./game_templates/Grassland_131.png | (8, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:24 Y:0
+./game_templates/Grassland_132.png | (215, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:26 Y:0
+./game_templates/Grassland_133.png | (373, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:28 Y:0
+./game_templates/Grassland_134.png | (1392, 61) | Grassland
+
+Kingdom of Astiniel
+
+EEE
+Transfer Occupy
+
+K:914 X:36 Y:0
+./game_templates/iftaways_01.png | (99, 451) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:37 Y:7
+./game_templates/isma_02.png | (332, 451) | isma bought Super spring Offer land shared Gittaways! <Tap this message to claim or a"?
+
+low lucky! [HOKJOCEANOS08 got from the Giftaway [M\F]Clisma shared fro---
+a
+
+INEXEROSIS
+= Deall extra DMG when you hunt the same
+
+monster in succession.
+
+@) 12:10
+
+Boost:
+
+Monster Hunt DMG Boost x16
+4 2,042 4 32,672
+
+— ————5+%
+) be fw] bad 200 > TSK be
+./game_templates/Grassland_03.png | (568, 451) | Grassland
+
+Transfer Occupy
+
+K:914 X:41 Y:7
+./game_templates/iftaways_05.png | (1031, 451) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:45 Y:7
+./game_templates/iftaways_06.png | (1262, 451) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:47 Y:7
+./game_templates/iftaways_07.png | (1479, 451) | iftaways! <Tap this--
+from the Giftaway ’
+
+Magma Path
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:49 Y:7
+./game_templates/iftaways_08.png | (99, 893) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:37 Y:15
+./game_templates/iftaways_09.png | (332, 893) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:39 Y:15
+./game_templates/iftaways_10.png | (568, 893) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:41 Y:15
+./game_templates/iftaways_11.png | (802, 893) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:43 Y:15
+./game_templates/iftaways_12.png | (1031, 893) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:45 Y:15
+./game_templates/iftaways_13.png | (1262, 893) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:47 Y:15
+./game_templates/iftaways_14.png | (1470, 889) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:49 Y:15
+./game_templates/i_15.png | (15, 850) | i bought Super Spring Offer T and
+© iow lucky! sees el got
+
+Kingdom of Astiniel
+
+K:914 X:36 Y:14
+./game_templates/iftaways_16.png | (215, 850) | iftaways! <Tap this--
+from the Giftaway ’
+
+Grassland
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:38 Y:14
+./game_templates/Grassland_01.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:7
+./game_templates/Grassland_02.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:7
+./game_templates/6_03.png | (568, 451) | 6,013,116
+& 20:13:23
+I
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:5 Y:7
+
+Ilad
+./game_templates/Kingdom_05.png | (1031, 451) | Kingdom of Astiniel
+
+Transfer Occupy
+
+! a ee ane
+te
+ws os Deere 1)
+./game_templates/Grassland_06.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:7
+./game_templates/Grassland_07.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Forest_08.png | (99, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:15
+./game_templates/Grassland_09.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:15
+./game_templates/Deall_10.png | (568, 893) | Deall extra DMG when you hunt the same
+
+monster in succession.
+
+@i! 12:17
+ay Roose 159,34%
+
+(a7 33/960 //,33,960 + . 7
+
+Ad Monster Hunt DMG Boost x6
+
+fy 5,444 47 32,664 a
+= on
+
+i 7
+K914 X:5 Y:15 [P%
+ae cs =x re 0
+— er ¥/- Yer =| fies ry
+Rewards \P3 LW S||2| \ave| ft hy 600 » Boe
+./game_templates/Kingdom_11.png | (802, 893) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:15
+./game_templates/Grassland_12.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:15
+./game_templates/Grassland_13.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:15
+./game_templates/Unknown_14.png | (1470, 889) | 
+./game_templates/Grassland_15.png | (15, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:14
+./game_templates/Grassland_16.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:14
+./game_templates/Grassland_17.png | (450, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:14
+./game_templates/Grassland_18.png | (684, 850) | Grassland
+
+Transfer
+
+K:914 X:6 Y:14
+./game_templates/Grassland_19.png | (916, 850) | Grassland
+
+Transfer Occupy
+
+K:914 X:8 Y:14
+./game_templates/724_20.png | (1145, 850) | 724,416
+& 20:12:49
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:10 Y:14
+
+Ilad
+./game_templates/at_21.png | (1377, 850) | at at
+<g5" Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Grassland_22.png | (99, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:7
+./game_templates/Grassland_23.png | (332, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:7
+./game_templates/6_24.png | (568, 451) | 6,013,116
+& 20:12:40
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:5 Y:7
+
+Ilad
+./game_templates/Kingdom_26.png | (1031, 451) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_27.png | (1262, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:7
+./game_templates/Grassland_28.png | (1479, 451) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:7
+./game_templates/Forest_29.png | (99, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:15
+./game_templates/Grassland_30.png | (332, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:15
+./game_templates/Deallextra_31.png | (568, 893) | Deallextra) DMG when you hunt the same
+
+monster in succession:
+
+@il 12:17
+ay Roose 159,34%
+
+»~_-s 33,960 / 33,960 +
+
+“a Monster Hunt DMG Boost x6
+
+Ay 5,444 Ay 32664
+u a
+
+7
+
+K914X:5 Y:15 [A
+
+(en [Rr |S ener
+Rewards ( | ¥] S||2| We | Yet hy > Fi i ¢
+
+A
+./game_templates/Forest_32.png | (802, 893) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:15
+./game_templates/Grassland_33.png | (1031, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:15
+./game_templates/Grassland_34.png | (1262, 893) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:15
+./game_templates/S_35.png | (1470, 889) | S> Shore
+
+Common
+
+K:914 X:13 Y:15
+./game_templates/Grassland_36.png | (15, 850) | Grassland
+
+Common
+
+Transfer
+
+K:914 X:0 Y:14
+./game_templates/Grassland_37.png | (215, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:14
+./game_templates/Grassland_38.png | (450, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:14
+./game_templates/Grassland_39.png | (684, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:14
+./game_templates/Grassland_40.png | (916, 850) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:14
+./game_templates/724_41.png | (1145, 850) | 724,416
+& 20:12:06
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:10 Y:14
+
+Ilad
+./game_templates/at_42.png | (1377, 850) | at at
+<g5" Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:14
+./game_templates/Grassland_43.png | (99, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:13
+./game_templates/Grassland_44.png | (332, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:13
+./game_templates/Grassland_45.png | (568, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:13
+./game_templates/Grassland_46.png | (802, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:13
+./game_templates/Grassland_47.png | (1031, 795) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:13
+./game_templates/Kingdom_48.png | (1262, 795) | Kingdom of Astiniel
+
+K:914 X:11 Y:13
+./game_templates/Unknown_49.png | (1470, 795) | 
+./game_templates/Grassland_50.png | (215, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:12
+./game_templates/Grassland_51.png | (450, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:12
+./game_templates/Grassland_52.png | (684, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:12
+./game_templates/Grassland_53.png | (916, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:12
+./game_templates/Grassland_54.png | (1145, 734) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:12
+./game_templates/Shore_55.png | (1377, 734) | Shore
+
+Kingdom of Astiniel
+
+K:914 X:12 Y:12
+./game_templates/Kingdom_56.png | (1581, 734) | Kingdom of Astiniel
+
+K:914 X:14 Y:12
+./game_templates/Grassland_57.png | (99, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:11
+./game_templates/Forest_58.png | (332, 678) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:11
+./game_templates/Unknown_59.png | (568, 678) | 
+./game_templates/Grassland_60.png | (802, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:11
+./game_templates/Grassland_61.png | (1031, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:11
+./game_templates/Grassland_62.png | (1262, 678) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:11
+./game_templates/Unknown_63.png | (1479, 678) | 
+./game_templates/Forest_64.png | (215, 620) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:10
+./game_templates/5_65.png | (450, 620) | 5,424,605
+& 20:11:13
+
+Requires min. 2-player Rally
+
+K:914 X:4 Y:10
+
+Ilad
+./game_templates/Grassland_66.png | (684, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:6 Y:10
+./game_templates/Grassland_67.png | (916, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:8 Y:10
+./game_templates/Grassland_68.png | (1145, 620) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:10
+./game_templates/SN_69.png | (1377, 620) | SN) = 724,416
+fe Sh
+A
+
+& 20:11:05
+
+Requires min. 2-player Rally
+
+* © Scout Rally Attack
+
+K:914 X:12 Y:10
+
+Ilad
+./game_templates/Kingdom_70.png | (1581, 620) | Kingdom of Astiniel
+
+K:914 X:14 Y:10
+./game_templates/Grassland_71.png | (99, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:9
+./game_templates/Kingdom_72.png | (332, 562) | Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_73.png | (568, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:9
+./game_templates/Forest_74.png | (802, 562) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:9
+./game_templates/Forest_75.png | (1031, 562) | Forest
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_76.png | (1262, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:9
+./game_templates/Grassland_77.png | (1479, 562) | Grassland
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_78.png | (8, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:8
+./game_templates/Grassland_79.png | (215, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/isma_80.png | (450, 505) | isma bought Super Spring Offer land shared ci taways! <Tap this message to claim or vie---
+low lucky! [HOKJOCEANOS08 got
+
+INXEKOSIS
+
+Deal extra DMG when you hunt the’same
+monster in| succession.
+
+@) 12:25
+
+Boost:
+
+Monster Hunt DMG Boost x16
+4 2,042 4 32,672
+./game_templates/Grassland_81.png | (684, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Forest_82.png | (916, 505) | Forest
+
+Kingdom of Astiniel
+
+Transfer
+./game_templates/Grassland_83.png | (1145, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:8
+./game_templates/Grassland_84.png | (1377, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:8
+./game_templates/Grassland_85.png | (1581, 505) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:8
+./game_templates/Grassland_86.png | (8, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:6
+./game_templates/Grassland_87.png | (215, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_88.png | (450, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:4 Y:6
+./game_templates/Grassland_89.png | (684, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_90.png | (916, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+./game_templates/Grassland_91.png | (1145, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:10 Y:6
+./game_templates/Grassland_92.png | (1377, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:12 Y:6
+./game_templates/Grassland_93.png | (1581, 394) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:14 Y:6
+./game_templates/Grassland_94.png | (99, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:1 Y:5
+./game_templates/Grassland_95.png | (332, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:3 Y:5
+./game_templates/Grassland_96.png | (568, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:5 Y:5
+./game_templates/Grassland_97.png | (802, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:7 Y:5
+./game_templates/Grassland_98.png | (1031, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:9 Y:5
+./game_templates/Grassland_99.png | (1262, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:11 Y:5
+./game_templates/Grassland_100.png | (1479, 338) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:13 Y:5
+./game_templates/Grassland_101.png | (8, 281) | Grassland
+
+Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:0 Y:4
+./game_templates/Kingdom_102.png | (215, 281) | Kingdom of Astiniel
+
+Transfer Occupy
+
+K:914 X:2 Y:4

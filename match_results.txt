@@ -1,0 +1,46 @@
+📊 Template Matching Report (2025-02-15 06:43:57)
+============================================================
+game_templates\unknown\tile_46.png: Score 44
+game_templates\unknown\tile_16.png: Score 43
+game_templates\unknown\tile_37.png: Score 43
+game_templates\unknown\tile_66.png: Score 42
+game_templates\unknown\tile_1.png: Score 40
+game_templates\unknown\tile_22.png: Score 40
+game_templates\unknown\tile_120.png: Score 38
+game_templates\unknown\tile_47.png: Score 37
+game_templates\unknown\tile_103.png: Score 36
+game_templates\unknown\tile_86.png: Score 35
+game_templates\unknown\tile_79.png: Score 34
+game_templates\unknown\tile_15.png: Score 33
+game_templates\unknown\tile_36.png: Score 33
+game_templates\unknown\tile_117.png: Score 32
+game_templates\unknown\tile_18.png: Score 32
+game_templates\unknown\tile_39.png: Score 32
+game_templates\unknown\tile_58.png: Score 30
+game_templates\unknown\tile_48.png: Score 24
+game_templates\unknown\tile_123.png: Score 22
+game_templates\unknown\tile_109.png: Score 19
+game_templates\unknown\tile_12.png: Score 19
+game_templates\unknown\tile_33.png: Score 19
+game_templates\unknown\tile_89.png: Score 17
+game_templates\unknown\tile_26.png: Score 16
+game_templates\unknown\tile_5.png: Score 16
+game_templates\unknown\tile_128.png: Score 15
+game_templates\unknown\tile_13.png: Score 15
+game_templates\unknown\tile_34.png: Score 15
+game_templates\unknown\tile_81.png: Score 15
+game_templates\unknown\tile_97.png: Score 15
+game_templates\unknown\tile_0.png: Score 14
+game_templates\unknown\tile_21.png: Score 14
+game_templates\unknown\tile_77.png: Score 13
+game_templates\unknown\tile_88.png: Score 13
+game_templates\unknown\tile_90.png: Score 13
+game_templates\unknown\tile_100.png: Score 12
+game_templates\unknown\tile_108.png: Score 11
+game_templates\unknown\tile_73.png: Score 11
+
+📊 Summary
+============================================================
+🔹 Total Template Matches Found: 38
+🔹 Highest Match: game_templates\unknown\tile_46.png (Score: 44)
+🔹 Lowest Match: game_templates\unknown\tile_108.png (Score: 11)

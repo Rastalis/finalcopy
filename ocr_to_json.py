@@ -4,67 +4,65 @@ import time
 from PIL import Image
 import pytesseract
 
-# Update this path to the location of your Tesseract installation
+# Configure Tesseract path
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-# Directory containing screenshots
-screenshots_dir = 'screenshots'
+# Directories and files
+SCREENSHOTS_DIR = 'screenshots'
+OUTPUT_FILE = 'ocr_results.json'
 
-# Output JSON file
-output_file = 'ocr_results.json'
+# Ensure JSON file exists
+if not os.path.exists(OUTPUT_FILE):
+    with open(OUTPUT_FILE, 'w') as f:
+        json.dump([], f)
 
-# Initialize the JSON file
-with open(output_file, 'w') as json_file:
-    json.dump([], json_file)
+def load_existing_results():
+    """Load existing OCR results from the JSON file."""
+    try:
+        with open(OUTPUT_FILE, 'r') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, FileNotFoundError):
+        return []
 
-# Counter for processed screenshots
-processed_count = 0
+def process_images():
+    """Process all images in the screenshots directory."""
+    if not os.path.exists(SCREENSHOTS_DIR):
+        print(f"Error: Directory '{SCREENSHOTS_DIR}' not found.")
+        return
+    
+    # Get all images in the directory
+    screenshots = [f for f in os.listdir(SCREENSHOTS_DIR) if f.endswith('.png')]
+    if not screenshots:
+        print("No new screenshots found.")
+        return
+    
+    ocr_results = load_existing_results()
 
+    for filename in screenshots:
+        image_path = os.path.join(SCREENSHOTS_DIR, filename)
+        print(f"Processing {filename}...")
+
+        try:
+            with Image.open(image_path) as img:
+                text = pytesseract.image_to_string(img).strip()
+
+            ocr_results.append({'filename': filename, 'text': text})
+
+            # Delete the screenshot after processing
+            os.remove(image_path)
+            print(f"Deleted {filename}")
+
+        except Exception as e:
+            print(f"Error processing {filename}: {e}")
+
+    # Save results in bulk
+    with open(OUTPUT_FILE, 'w') as f:
+        json.dump(ocr_results, f, indent=4)
+    
+    print(f"Processed {len(screenshots)} images.")
+
+# Continuous monitoring loop
+print("Monitoring for new screenshots...")
 while True:
-    # List to hold filenames of screenshots to process
-    screenshots_to_process = [f for f in os.listdir(screenshots_dir) if f.endswith('.png')]
-
-    if not screenshots_to_process:
-        print("No screenshots found. Exiting.")
-        break
-
-    # Process each image in the screenshots directory
-    for filename in screenshots_to_process:
-        image_path = os.path.join(screenshots_dir, filename)
-        print(f"Processing {image_path}...")
-
-        # Open the image file
-        with Image.open(image_path) as img:
-            # Perform OCR on the image
-            text = pytesseract.image_to_string(img)
-            print(f"OCR Result for {filename}: {text}")
-
-            # Load existing data
-            with open(output_file, 'r') as json_file:
-                ocr_results = json.load(json_file)
-
-            # Append the result to the list
-            ocr_results.append({
-                'filename': filename,
-                'text': text.strip()
-            })
-
-            # Save the updated OCR results to the JSON file
-            with open(output_file, 'w') as json_file:
-                json.dump(ocr_results, json_file, indent=4)
-
-        # Delete the screenshot after processing
-        os.remove(image_path)
-        print(f"Deleted {image_path}")
-
-        # Increment the processed count
-        processed_count += 1
-
-    # Print summary
-    print(f"Processed and deleted {processed_count} screenshots so far.")
-
-    # Wait for 30 seconds before checking again
-    print("Waiting for 30 seconds before checking for new screenshots...")
-    time.sleep(30)
-
-print(f"OCR results saved to {output_file}") 
+    process_images()
+    time.sleep(30)  # Wait before checking again
